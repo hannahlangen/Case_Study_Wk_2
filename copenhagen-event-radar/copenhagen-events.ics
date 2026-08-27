@@ -10,543 +10,643 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:wholesome-wellness-rave-2026@copenhagen-event-radar
-DTSTAMP:20260827T094500Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20260830T140000
 DTEND;TZID=Europe/Copenhagen:20260830T180000
 SUMMARY:⭐🆓 Wholesome CPH — Summer Send-Off: Wellness Rave
-DESCRIPTION:Free social wellness rave on the water with live house music\, social sauna\, complimentary refreshments and dancing. Strong Wholesome social + wellness pick.\nCost: free.\nTickets/registration: no paid ticket listed.\nOfficial: https://www.wholesomecph.dk/events/summer-send-off-wellness-rave
+DESCRIPTION:Free social wellness rave on the water with live house music\, social sauna\, refreshments and dancing.
 URL:https://www.wholesomecph.dk/events/summer-send-off-wellness-rave
 LOCATION:Green Island of Copenhagen\, near Kalvebod Brygge
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:city-golf-try-2026@copenhagen-event-radar
+DTSTAMP:20260827T131500Z
+DTSTART;TZID=Europe/Copenhagen:20260830T103000
+DTEND;TZID=Europe/Copenhagen:20260830T120000
+RDATE;TZID=Europe/Copenhagen:20260913T103000,20260920T103000,20260927T103000,20261004T103000,20261011T103000,20261018T103000,20261025T103000
+SUMMARY:⛳🆓 Trial: Beginner Golf — City Golf Copenhagen
+DESCRIPTION:Free beginner golf trial\; 16+\, equipment included. Other available Sundays listed as recurrence dates.
+URL:https://motivu.dk/klubber/19869/copenhagen-driving-range-city-golf-copenhagen/traeninger/9318/proev-golf-begyndergolftry-golf-beginner-golf-1
+LOCATION:City Golf Copenhagen\, Center Boulevard 4\, Copenhagen S
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:amager-boxing-try-2026@copenhagen-event-radar
+DTSTAMP:20260827T131500Z
+DTSTART;TZID=Europe/Copenhagen:20260830T090000
+DTEND;TZID=Europe/Copenhagen:20260830T103000
+RDATE;TZID=Europe/Copenhagen:20260906T090000,20260913T090000,20260920T090000,20260927T090000,20261004T090000,20261011T090000,20261025T090000,20261101T090000
+SUMMARY:🥊 Trial: Beginner Boxing — Amager Boxing Club
+DESCRIPTION:Beginner boxing trial for teens/adults\; technique\, strength and HIIT\; 25 DKK\, up to two trial sessions.
+URL:https://motivu.dk/klubber/1341/amager-boxing-club/traeninger/16163/boksemotion-begynder-alle-aldre-15
+LOCATION:Multihallen\, Jenagade 21\, Copenhagen S
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:storynights-2026-09-01@copenhagen-event-radar
-DTSTAMP:20260827T125200Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20260901T180000
 DTEND;TZID=Europe/Copenhagen:20260901T193000
 SUMMARY:⭐📚 Storynights Book Club — Union
-DESCRIPTION:Recurring English-language book club focused on creativity\, artistic lives\, cultural movements and remarkable stories\, selected for reflection and discussion. Strong repeated-contact culture/learning lead.\nCost: free.\nJoining: email storynightscph@gmail.com with subject “Book Club”.\nInfo: https://hvaderpaa.dk/en/event/3771/
+DESCRIPTION:Recurring English-language book club focused on creativity\, artistic lives\, cultural movements and remarkable stories\; free.
 URL:https://hvaderpaa.dk/en/event/3771/
-LOCATION:Union\, Nørre Allé 7\, 2200 Copenhagen N
+LOCATION:Union\, Nørre Allé 7\, Copenhagen N
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:oens-have-volunteer-autumn-2026@copenhagen-event-radar
+DTSTAMP:20260827T131500Z
+DTSTART;TZID=Europe/Copenhagen:20260901T100000
+DTEND;TZID=Europe/Copenhagen:20260901T170000
+RRULE:FREQ=WEEKLY;COUNT=9
+SUMMARY:🌱🆓 Øens Have — Weekly Volunteer Garden Day
+DESCRIPTION:Hands-on urban-farm volunteering\; recurring Tuesdays through October\, max 25 participants. Strong gardening/community lead.
+URL:https://www.oenshave.dk/kalender-events
+LOCATION:Øens Have\, Refshalevej 159B\, Copenhagen K
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:wholesome-knit-martini-2026@copenhagen-event-radar
-DTSTAMP:20260827T094500Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20260903T180000
 DTEND;TZID=Europe/Copenhagen:20260903T203000
 SUMMARY:🆓🍸 Wholesome CPH — Knit & Espresso Martini Night
-DESCRIPTION:Casual Wholesome bar hang at Holy Bean. Knitting/crochet is completely optional\; the real appeal is an easy social evening with new people and cheap Espresso Martinis.\nCost: free entry\; drinks purchased separately.\nRegistration: none — just turn up.\nOfficial: https://www.wholesomecph.dk/events
+DESCRIPTION:Casual Wholesome social evening at Holy Bean\; free entry\, drinks separate.
 URL:https://www.wholesomecph.dk/events
-LOCATION:Holy Bean Coffee & Cocktails\, Ravnsborggade 14A\, 2200 Copenhagen N
+LOCATION:Holy Bean Coffee & Cocktails\, Ravnsborggade 14A\, Copenhagen N
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:golden-days-monster-2026@copenhagen-event-radar
-DTSTAMP:20260827T092000Z
+DTSTAMP:20260827T131500Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260921
 SUMMARY:⭐ Golden Days: MONSTER
-DESCRIPTION:Festival framework with 200+ events on monsters\, villains\, power\, fear\, art\, history and society. Individual Radar picks are added separately.\nCost: varies by event\; many are free.\nTickets: depends on event.\nOfficial: https://www.goldendays.dk/goldendays-monster
+DESCRIPTION:Festival framework with 200+ events on monsters\, villains\, power\, fear\, art\, history and society.
 URL:https://www.goldendays.dk/goldendays-monster
 LOCATION:Copenhagen and surroundings
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:golden-days-opening-2026@copenhagen-event-radar
-DTSTAMP:20260827T092000Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20260904T160000
 DTEND;TZID=Europe/Copenhagen:20260904T230000
 SUMMARY:⭐🆓 Golden Days Opening — Welcome to the Dark Side
-DESCRIPTION:Free opening party with talks\, performances\, ghost stories and concerts in Kødbyen. Strong culture + social-atmosphere pick.\nCost: free.\nTickets/registration: free participation.\nOfficial: https://www.goldendays.dk/abningsfest
+DESCRIPTION:Free opening party with talks\, performances\, ghost stories and concerts in Kødbyen.
 URL:https://www.goldendays.dk/abningsfest
 LOCATION:Sort/Hvid\, Kødbyen\, Copenhagen V
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:golden-days-monsteropera-2026@copenhagen-event-radar
-DTSTAMP:20260827T092000Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20260907T190000
 DTEND;TZID=Europe/Copenhagen:20260907T200000
 SUMMARY:⭐🎟️ Golden Days — Underjordisk monsteropera
-DESCRIPTION:Opera villains performed underground in Cisternerne by singers from the Royal Danish Academy of Music and the Opera Academy. Excellent atmospheric culture pick.\nCost: 195 DKK.\nTickets required.\nOfficial: https://www.goldendays.dk/
+DESCRIPTION:Opera villains performed underground in Cisternerne\; 195 DKK.
 URL:https://www.goldendays.dk/
 LOCATION:Cisternerne\, Søndermarken\, Frederiksberg
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:k7-week-2026@copenhagen-event-radar
-DTSTAMP:20260827T092000Z
+DTSTAMP:20260827T131500Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260914
 SUMMARY:⭐🆓 K7 Culture Week 2026
-DESCRIPTION:Free admission to 250+ museums and exhibition venues for people up to age 27. Theatre and classical-music tickets can be 40 DKK for ages 18-25. Individual Copenhagen picks are added separately.\nRegistration: download the free K7 card.\nOfficial: https://www.k7k7.dk/
+DESCRIPTION:Culture week with free museum/exhibition admission for eligible young visitors and special events.
 URL:https://www.k7k7.dk/
 LOCATION:Copenhagen and Denmark
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:k7-dkdm-symphony-2026@copenhagen-event-radar
-DTSTAMP:20260827T092000Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20260908T170000
 SUMMARY:🎼 K7 Pick — DKDM Symphony Orchestra
-DESCRIPTION:Wagner's Siegfried Idyll\, Milhaud's Le boeuf sur le toit and a new student work\, introduced by Giordano Bellincampi.\nK7 event: check current ticket/entry conditions.\nOfficial: https://www.k7k7.dk/
+DESCRIPTION:Wagner\, Milhaud and a new student work at Konservatoriets Koncertsal.
 URL:https://www.k7k7.dk/
 LOCATION:Konservatoriets Koncertsal\, Frederiksberg
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:wholesome-sculpt-spritzes-2026@copenhagen-event-radar
-DTSTAMP:20260827T094500Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20260908T191500
 DTEND;TZID=Europe/Copenhagen:20260908T213000
 SUMMARY:⭐🎟️ Wholesome CPH — Late-Night Sculpt & Spritzes
-DESCRIPTION:Mat-based sculpt class using weights/props at Some Good Moves followed by a full social hour with spritzes\, snacks and music. Limited to 18 spots.\nCost: 229 DKK.\nTickets required.\nOfficial: https://www.wholesomecph.dk/events/late-night-sculpt-spritzes
+DESCRIPTION:Sculpt class followed by a social hour with spritzes\, snacks and music\; 229 DKK.
 URL:https://www.wholesomecph.dk/events/late-night-sculpt-spritzes
 LOCATION:Some Good Moves\, Vesterbro\, Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:golden-days-art-imperialism-2026@copenhagen-event-radar
-DTSTAMP:20260827T092000Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20260909T170000
 SUMMARY:⭐🎟️ Golden Days — Kunst i imperialismens skygge
-DESCRIPTION:Conversation on Orientalism\, imperialism and how art reinforces or challenges stereotypes. Strong art + politics + society fit.\nCost: 50 DKK.\nTickets required.\nOfficial: https://www.goldendays.dk/
+DESCRIPTION:Conversation on Orientalism\, imperialism and art\; 50 DKK.
 URL:https://www.goldendays.dk/
 LOCATION:Davids Samling\, Kronprinsessegade 30-32\, Copenhagen K
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:wholesome-social-padel-2026@copenhagen-event-radar
-DTSTAMP:20260827T094500Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20260909T180000
 DTEND;TZID=Europe/Copenhagen:20260909T210000
 SUMMARY:⭐🎟️ Wholesome CPH x Stellar — Social Padel
-DESCRIPTION:Social padel with beginner-friendly 'Have a hit' and Americano options. Includes two hours of courts\, racket/ball hire and refreshments. Good repeated-contact sport/community format.\nCost: prepaid ticket required\; check current event page for price.\nRegistration required\; limited spots.\nOfficial: https://www.wholesomecph.dk/events/padel
+DESCRIPTION:Social padel with beginner-friendly options and refreshments.
 URL:https://www.wholesomecph.dk/events/padel
 LOCATION:Padel Yard\, Reffen\, Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:golden-days-verdenstraumer-2026@copenhagen-event-radar
-DTSTAMP:20260827T092000Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20260910T163000
 DTEND;TZID=Europe/Copenhagen:20260910T171500
 SUMMARY:⭐🆓 Golden Days — Verdenstraumer: Udenrigspolitikkens skurke
-DESCRIPTION:Foreign-policy discussion on Russia\, North Korea and Iran within the festival theme of villains\, power and enemy images. Strong politics/society fit.\nCost: free.\nOfficial: https://www.goldendays.dk/
+DESCRIPTION:Foreign-policy discussion on Russia\, North Korea and Iran\; free.
 URL:https://www.goldendays.dk/
 LOCATION:Politikens Boghal\, Rådhuspladsen\, Copenhagen V
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:absalon-dinner-pubquiz-en-2026-09-10@copenhagen-event-radar
-DTSTAMP:20260827T113000Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20260910T170000
 DTEND;TZID=Europe/Copenhagen:20260910T220000
 SUMMARY:🍽️🧠 Absalon — Dinner & Pubquiz (English)
-DESCRIPTION:Community dinner followed by an English-language pub quiz. Better Absalon fit than a generic drop-in: structured social context\, mixed knowledge questions and dinner at shared tables.\nCost: 150 DKK.\nTickets required/recommended.\nOfficial: https://absaloncph.dk/begivenhed/dinner-pubquiz-10/
+DESCRIPTION:Community dinner followed by English-language pub quiz\; 150 DKK.
 URL:https://absaloncph.dk/begivenhed/dinner-pubquiz-10/
-LOCATION:Folkehuset Absalon\, Sønder Boulevard 73\, 1720 Copenhagen V
+LOCATION:Folkehuset Absalon\, Sønder Boulevard 73\, Copenhagen V
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dine-design-2026-09-10@copenhagen-event-radar
-DTSTAMP:20260827T092000Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20260910T180000
 DTEND;TZID=Europe/Copenhagen:20260910T200000
 SUMMARY:⭐🎟️ DINE & DESIGN — Designmuseum Danmark
-DESCRIPTION:Community dinner at long tables with a short story\, quiz or talk about a Danish design classic. Strong recurring social + design format.\nCost: 185 DKK adult. Museum admission not included.\nTickets recommended/required\; non-refundable. Arrive from 17:30.\nOfficial: https://designmuseum.dk/en/event/dine-design-community-dining-at-the-design-museum-10-09/
-URL:https://designmuseum.dk/en/event/dine-design-community-dining-at-the-design-museum-10-09/
-LOCATION:Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
+DESCRIPTION:Community dinner around Danish design history\; 185 DKK.
+URL:https://designmuseum.dk/
+LOCATION:Designmuseum Danmark\, Bredgade 68\, Copenhagen K
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:k7-stop-making-sense-2026@copenhagen-event-radar
-DTSTAMP:20260827T092000Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20260911T190000
 SUMMARY:🎬💃 K7 Pick — Stop Making Sense + bar/disco
-DESCRIPTION:Talking Heads' classic concert film followed by a bar and disco. Good film + music + social-night crossover.\nK7 event: verify current ticket price/eligibility when booking.\nOfficial: https://www.k7k7.dk/
+DESCRIPTION:Talking Heads concert film followed by bar/disco.
 URL:https://www.k7k7.dk/
 LOCATION:Cinemateket\, Gothersgade 55\, Copenhagen K
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lille-bogdag-2026@copenhagen-event-radar
-DTSTAMP:20260827T092000Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20260912T100000
 DTEND;TZID=Europe/Copenhagen:20260913T180000
 SUMMARY:📚🆓 Lille Bogdag 2026 — Designmuseum Danmark
-DESCRIPTION:Literature festival for small quality-focused publishers with readings\, conversations\, music\, workshops and performances. Strong book/culture discovery pick.\nCost: free. Museum exhibitions require separate admission.\nOfficial: https://designmuseum.dk/event/lille-bogdag-2026/
+DESCRIPTION:Small-publisher literature festival with readings\, talks\, music and performances\; free.
 URL:https://designmuseum.dk/event/lille-bogdag-2026/
-LOCATION:Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
+LOCATION:Designmuseum Danmark\, Bredgade 68\, Copenhagen K
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:golden-days-gauguin-2026@copenhagen-event-radar
-DTSTAMP:20260827T092000Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20260917T170000
 DTEND;TZID=Europe/Copenhagen:20260917T180000
 SUMMARY:⭐🎟️ Golden Days — Hvad nu\, Gauguin?
-DESCRIPTION:Interdisciplinary discussion about admired art and colonial-era power structures using Gauguin as the case. Excellent art + ethics + society pick.\nCost: 200 DKK incl. admission\; students/young people 155 DKK.\nTickets required.\nOfficial: https://www.goldendays.dk/
+DESCRIPTION:Art\, ethics and colonial-era power structures\; 200 DKK incl admission.
 URL:https://www.goldendays.dk/
-LOCATION:Ordrupgaard\, Vilvordevej 110\, 2920 Ordrup
+LOCATION:Ordrupgaard\, Vilvordevej 110\, Ordrup
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:henrik-vibskov-exhibition-2026@copenhagen-event-radar
-DTSTAMP:20260827T092000Z
+DTSTAMP:20260827T131500Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20270222
 SUMMARY:🎨 Henrik Vibskov: The Exhibition
-DESCRIPTION:Major immersive Designmuseum exhibition spanning fashion\, music\, scenography\, costumes and installations. Strong long-horizon design/fashion pick.\nAdmission: museum ticket/annual pass.\nOfficial: https://designmuseum.dk/en/exhibition/henrik-vibskov/
+DESCRIPTION:Major Designmuseum exhibition spanning fashion\, music\, scenography\, costumes and installations.
 URL:https://designmuseum.dk/en/exhibition/henrik-vibskov/
-LOCATION:Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
+LOCATION:Designmuseum Danmark\, Bredgade 68\, Copenhagen K
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:wholesome-beatriders-rave-2026@copenhagen-event-radar
-DTSTAMP:20260827T094500Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20260918T183000
 DTEND;TZID=Europe/Copenhagen:20260918T213000
 SUMMARY:⭐🎟️ Wholesome CPH — Beatriders x Activewear Rave
-DESCRIPTION:Beat-driven spin class followed by a two-hour live-DJ social/rave with complimentary drinks and snacks. Strong movement + party crossover.\nCost: 239 DKK.\nTickets required\; limited spots.\nOfficial: https://www.wholesomecph.dk/events/beatriders-x-activewear-rave
+DESCRIPTION:Spin class followed by live-DJ social/rave\; 239 DKK.
 URL:https://www.wholesomecph.dk/events/beatriders-x-activewear-rave
 LOCATION:Beatriders\, Islands Brygge\, Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:wholesome-dinner-dj-sept-2026@copenhagen-event-radar
-DTSTAMP:20260827T094500Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20260919T173000
 DTEND;TZID=Europe/Copenhagen:20260919T203000
 SUMMARY:⭐🎟️ Wholesome CPH — Dinner & DJ Session: Latin Edition
-DESCRIPTION:Intimate apartment dinner for 15 with a five-dish Latin-inspired sharing menu\, welcome cocktail and live house DJ throughout. Especially good small-group social format.\nCost: 359 DKK.\nTickets required\; intentionally limited to 15 spots.\nOfficial: https://www.wholesomecph.dk/events/dj-dinner-party-5h65f
+DESCRIPTION:Intimate dinner for 15 with sharing menu\, cocktail and DJ\; 359 DKK.
 URL:https://www.wholesomecph.dk/events/dj-dinner-party-5h65f
 LOCATION:Private apartment\, Islands Brygge\, Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:oens-have-saving-seeds-2026@copenhagen-event-radar
+DTSTAMP:20260827T131500Z
+DTSTART;TZID=Europe/Copenhagen:20260920T100000
+DTEND;TZID=Europe/Copenhagen:20260920T120000
+SUMMARY:🌱🎟️ Workshop — Saving Seeds for Future Gardens
+DESCRIPTION:Beginner-friendly seed-saving workshop covering plant cycles\, pollination\, varieties and propagation\; 250 DKK\, max 12.
+URL:https://www.oenshave.dk/upcoming_events/workshop-saving-seeds-for-future-gardens
+LOCATION:Øens Have\, Refshalevej 159B\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:wholesome-sunrise-swim-sept-2026@copenhagen-event-radar
-DTSTAMP:20260827T094500Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20260923T064500
 DTEND;TZID=Europe/Copenhagen:20260923T083000
 SUMMARY:🆓🏊 Wholesome CPH — Sunrise Swim Club
-DESCRIPTION:Casual sunrise swim followed by coffee and baked goods. Swimming is optional and people can leave early for work. Nice low-pressure recurring-community style event.\nCost: free.\nRegistration: none — just show up.\nOfficial: https://www.wholesomecph.dk/events/swimclub-sunrise-xdfsw
+DESCRIPTION:Casual sunrise swim followed by coffee and baked goods\; free.
 URL:https://www.wholesomecph.dk/events/swimclub-sunrise-xdfsw
 LOCATION:Sandkaj\, Nordhavn\, Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:meyers-kimchi-2026-09-24@copenhagen-event-radar
+DTSTAMP:20260827T131500Z
+DTSTART;TZID=Europe/Copenhagen:20260924T160000
+DTEND;TZID=Europe/Copenhagen:20260924T183000
+SUMMARY:🇰🇷🥬 Kala's Kimchi — Meyers
+DESCRIPTION:Hands-on English-language kimchi workshop\; two varieties and fermentation techniques\; 695 DKK incl food/drinks.
+URL:https://meyers.dk/madkurser/kalas-kimchi
+LOCATION:Meyers Madhus\, Nørrebrogade 52C\, Copenhagen N
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:dine-design-2026-09-24@copenhagen-event-radar
-DTSTAMP:20260827T092000Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20260924T180000
 DTEND;TZID=Europe/Copenhagen:20260924T200000
 SUMMARY:⭐🎟️ DINE & DESIGN — Designmuseum Danmark
-DESCRIPTION:Recurring community dinner around Danish design history. Strong social + design format.\nCost: 185 DKK adult. Museum admission not included.\nTickets recommended/required\; non-refundable. Arrive from 17:30.\nOfficial: https://designmuseum.dk/en/event/dine-design-community-dining-at-the-design-museum-24-09/
-URL:https://designmuseum.dk/en/event/dine-design-community-dining-at-the-design-museum-24-09/
-LOCATION:Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
+DESCRIPTION:Community dinner around Danish design history\; 185 DKK.
+URL:https://designmuseum.dk/
+LOCATION:Designmuseum Danmark\, Bredgade 68\, Copenhagen K
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:morgenformat-design-2026@copenhagen-event-radar
-DTSTAMP:20260827T092000Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20260929T083000
 DTEND;TZID=Europe/Copenhagen:20260929T093000
 SUMMARY:⭐🆓 MORGENFORMAT — Når design bliver til betydning
-DESCRIPTION:Bo Linnemann of Kontrapunkt and Anders Thulin of the Royal Danish Academy discuss graphic design's role in how we understand\, remember and feel — including branding\, trust\, authority and manipulation. Filter coffee included.\nCost: free.\nRegistration required\; limited places. Doors/coffee bar 08:00.\nOfficial: https://designmuseum.dk/event/morgenformat-naar-design-bliver-til-betydning/
+DESCRIPTION:Graphic design\, branding\, trust\, authority and manipulation\; free\, registration required.
 URL:https://designmuseum.dk/event/morgenformat-naar-design-bliver-til-betydning/
-LOCATION:FORMAT at Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
+LOCATION:FORMAT at Designmuseum Danmark\, Bredgade 68\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:meyers-korean-kitchen-2026-09-30@copenhagen-event-radar
+DTSTAMP:20260827T131500Z
+DTSTART;TZID=Europe/Copenhagen:20260930T170000
+DTEND;TZID=Europe/Copenhagen:20260930T220000
+SUMMARY:🇰🇷🍽️ Kala's Korean Kitchen — Meyers
+DESCRIPTION:Five-hour hands-on English-language Korean cooking course\; 1\,445 DKK incl food/drinks.
+URL:https://meyers.dk/madkurser/kalas-korean-kitchen
+LOCATION:Meyers Madhus\, Nørrebrogade 52C\, Copenhagen N
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sundet-sejlerskole-registration-2027@copenhagen-event-radar
+DTSTAMP:20260827T131500Z
+DTSTART;VALUE=DATE:20261001
+SUMMARY:⛵📌 Sejlklubben Sundet — 2027 Sailing School Registration Opens
+DESCRIPTION:Registration opens for the 2027 sailing-school intake\; season starts March/April 2027. Strong recurring-community lead.
+URL:https://sundet.dk/sejlerskolen/indmeldelse
+LOCATION:Sejlklubben Sundet\, Svaneknoppen 2\, Copenhagen Ø
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:wholesome-third-birthday-2026@copenhagen-event-radar
-DTSTAMP:20260827T094500Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20261001T180000
 DTEND;TZID=Europe/Copenhagen:20261001T210000
 SUMMARY:🎉 Wholesome CPH — 3rd Birthday
-DESCRIPTION:Wholesome Copenhagen's third-birthday community event. More participation details are published through Wholesome's event page/social channels.\nCost/tickets: check current event details.\nOfficial: https://www.wholesomecph.dk/events
+DESCRIPTION:Wholesome Copenhagen third-birthday community event.
 URL:https://www.wholesomecph.dk/events
-LOCATION:Copenhagen — check Wholesome for final venue details
+LOCATION:Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dine-design-2026-10-01@copenhagen-event-radar
-DTSTAMP:20260827T092000Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20261001T180000
 DTEND;TZID=Europe/Copenhagen:20261001T200000
 SUMMARY:🎟️ DINE & DESIGN — Designmuseum Danmark
-DESCRIPTION:Recurring community dinner around Danish design history.\nCost: 185 DKK adult. Museum admission not included.\nTickets recommended/required\; non-refundable. Arrive from 17:30.\nOfficial: https://designmuseum.dk/event/faellesspisning-paa-designmuseet-01-10/
-URL:https://designmuseum.dk/event/faellesspisning-paa-designmuseet-01-10/
-LOCATION:Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
+DESCRIPTION:Community dinner around Danish design history\; 185 DKK.
+URL:https://designmuseum.dk/
+LOCATION:Designmuseum Danmark\, Bredgade 68\, Copenhagen K
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:tivoli-halloween-2026@copenhagen-event-radar
-DTSTAMP:20260827T113000Z
+DTSTAMP:20260827T131500Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261102
 SUMMARY:🎃⭐ Halloween in Tivoli 2026
-DESCRIPTION:Tivoli's full Halloween season with 20\,000+ pumpkins\, autumn food stalls\, haunted attractions and nightly Halloween Illuminations on the lake. Worth an evening visit rather than treating it as a children's event.\nDates: 2 Oct–1 Nov 2026.\nCost: Tivoli entrance\; individual attractions may cost extra.\nOfficial: https://www.tivoli.dk/en/opening-hours-and-seasons/halloween-in-tivoli
+DESCRIPTION:Tivoli Halloween season with pumpkins\, autumn food\, haunted attractions and illuminations.
 URL:https://www.tivoli.dk/en/opening-hours-and-seasons/halloween-in-tivoli
-LOCATION:Tivoli Gardens\, Vesterbrogade 3\, 1630 Copenhagen V
+LOCATION:Tivoli Gardens\, Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:storynights-2026-10-06@copenhagen-event-radar
-DTSTAMP:20260827T125200Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20261006T180000
 DTEND;TZID=Europe/Copenhagen:20261006T193000
 SUMMARY:⭐📚 Storynights Book Club — Union
-DESCRIPTION:Second published autumn meeting of the recurring Storynights Book Club on creativity\, artistic lives\, cultural movements and remarkable stories.\nCost: free.\nJoining: email storynightscph@gmail.com with subject “Book Club”.\nInfo: https://hvaderpaa.dk/en/event/3771/
+DESCRIPTION:Recurring English-language cultural book club\; free.
 URL:https://hvaderpaa.dk/en/event/3771/
-LOCATION:Union\, Nørre Allé 7\, 2200 Copenhagen N
+LOCATION:Union\, Nørre Allé 7\, Copenhagen N
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dining-week-october-2026@copenhagen-event-radar
-DTSTAMP:20260827T092000Z
+DTSTAMP:20260827T131500Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261019
 SUMMARY:🍽️🎟️ Dining Week — October 2026
-DESCRIPTION:Scandinavia's largest restaurant festival. Selected restaurants offer fixed-price menus over 10 days. Radar will add especially good Copenhagen restaurant picks when the programme/tickets are released.\nDates: 9-18 October 2026.\nTickets: advance booking via Dining Week\; popular tables can go quickly.\nOfficial: https://diningweek.dk/
+DESCRIPTION:Restaurant festival with fixed-price menus\; specific picks will be added when programme is live.
 URL:https://diningweek.dk/
-LOCATION:Copenhagen and Denmark — multiple restaurants
+LOCATION:Copenhagen and Denmark
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:meyers-korean-streetfood-2026-10-29@copenhagen-event-radar
+DTSTAMP:20260827T131500Z
+DTSTART;TZID=Europe/Copenhagen:20261029T170000
+DTEND;TZID=Europe/Copenhagen:20261029T220000
+SUMMARY:🇰🇷🌶️ Korean Street Food with Kala Sung — Meyers
+DESCRIPTION:Hands-on English-language Korean street-food course\; 1\,445 DKK incl food/drinks.
+URL:https://meyers.dk/madkurser/korean-street-food-kala-sung
+LOCATION:Meyers Madhus\, Nørrebrogade 52C\, Copenhagen N
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dine-design-2026-10-29@copenhagen-event-radar
-DTSTAMP:20260827T092000Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20261029T180000
 DTEND;TZID=Europe/Copenhagen:20261029T200000
 SUMMARY:🎟️ DINE & DESIGN — Designmuseum Danmark
-DESCRIPTION:Recurring community dinner around Danish design history.\nCost: 185 DKK adult. Museum admission not included.\nTickets recommended/required\; non-refundable. Arrive from 17:30.\nOfficial: https://designmuseum.dk/event/faellesspisning-paa-designmuseet-29-10/
-URL:https://designmuseum.dk/event/faellesspisning-paa-designmuseet-29-10/
-LOCATION:Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
+DESCRIPTION:Community dinner around Danish design history\; 185 DKK.
+URL:https://designmuseum.dk/
+LOCATION:Designmuseum Danmark\, Bredgade 68\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:haveselskabet-koekkenhaveskole-registration-2027@copenhagen-event-radar
+DTSTAMP:20260827T131500Z
+DTSTART;VALUE=DATE:20261101
+SUMMARY:🌿📌 Haveselskabet Køkkenhaveskole 2027 — Registration Opens
+DESCRIPTION:Registration opens for the April–September 2027 digital kitchen-garden school.
+URL:https://haveselskabet.dk/haveskoler/kokkenhaveskolen-2026/
+LOCATION:Online / Haveselskabet
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:nytorv-christmas-market-2026@copenhagen-event-radar
-DTSTAMP:20260827T113000Z
+DTSTAMP:20260827T131500Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261222
 SUMMARY:🎄 Copenhagen Christmas Market — Nytorv
-DESCRIPTION:Central Copenhagen Christmas market at Nytorv/Gammeltorv. Useful seasonal marker for a city-centre Christmas evening rather than a must-do standalone event.\nDates: 6 Nov–21 Dec 2026.\nOfficial city listing: https://visitorservice.kk.dk/en/events/christmas-events
+DESCRIPTION:Central Copenhagen Christmas market.
 URL:https://visitorservice.kk.dk/en/events/christmas-events
 LOCATION:Nytorv / Gammeltorv\, Copenhagen K
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:tivoli-christmas-2026@copenhagen-event-radar
-DTSTAMP:20260827T113000Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20270104
-SUMMARY:🎄⭐ Christmas in Tivoli 2026
-DESCRIPTION:Tivoli's Christmas season with illuminated gardens\, Christmas stalls\, restaurants and seasonal performances. Radar will track standout concerts\, ballet and NYE events separately.\nDates: 13 Nov 2026–3 Jan 2027.\nCost: Tivoli entrance unless included with a show ticket.\nOfficial: https://www.tivoli.dk/en/opening-hours-and-seasons/christmas-in-tivoli
-URL:https://www.tivoli.dk/en/opening-hours-and-seasons/christmas-in-tivoli
-LOCATION:Tivoli Gardens\, Vesterbrogade 3\, 1630 Copenhagen V
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:dine-design-2026-11-12@copenhagen-event-radar
-DTSTAMP:20260827T092000Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20261112T180000
 DTEND;TZID=Europe/Copenhagen:20261112T200000
 SUMMARY:🎟️ DINE & DESIGN — Designmuseum Danmark
-DESCRIPTION:Recurring community dinner around Danish design history.\nCost: 185 DKK adult. Museum admission not included.\nTickets recommended/required\; non-refundable. Arrive from 17:30.\nOfficial: https://designmuseum.dk/en/event/dine-design-community-dining-at-the-design-museum-12-11/
-URL:https://designmuseum.dk/en/event/dine-design-community-dining-at-the-design-museum-12-11/
-LOCATION:Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
+DESCRIPTION:Community dinner around Danish design history\; 185 DKK.
+URL:https://designmuseum.dk/
+LOCATION:Designmuseum Danmark\, Bredgade 68\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tivoli-christmas-2026@copenhagen-event-radar
+DTSTAMP:20260827T131500Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20270104
+SUMMARY:🎄⭐ Christmas in Tivoli 2026
+DESCRIPTION:Tivoli Christmas season with illuminated gardens\, stalls\, restaurants and performances.
+URL:https://www.tivoli.dk/en/opening-hours-and-seasons/christmas-in-tivoli
+LOCATION:Tivoli Gardens\, Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:storynights-2026-11-24@copenhagen-event-radar
-DTSTAMP:20260827T125200Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20261124T180000
 DTEND;TZID=Europe/Copenhagen:20261124T193000
 SUMMARY:⭐📚 Storynights Book Club — Union
-DESCRIPTION:Third currently published Storynights Book Club meeting. The series is a strong recurring-community candidate because it combines culture\, discussion and repeated contact.\nCost: free.\nJoining: email storynightscph@gmail.com with subject “Book Club”.\nInfo: https://hvaderpaa.dk/en/event/3771/
+DESCRIPTION:Recurring English-language cultural book club\; free.
 URL:https://hvaderpaa.dk/en/event/3771/
-LOCATION:Union\, Nørre Allé 7\, 2200 Copenhagen N
+LOCATION:Union\, Nørre Allé 7\, Copenhagen N
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dine-design-2026-11-26@copenhagen-event-radar
-DTSTAMP:20260827T092000Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20261126T180000
 DTEND;TZID=Europe/Copenhagen:20261126T200000
 SUMMARY:🎟️🎄 DINE & DESIGN — Designmuseum Danmark
-DESCRIPTION:Recurring community dinner around Danish design history\; this late-November menu includes a festive Danish rice pudding dessert.\nCost: 185 DKK adult. Museum admission not included.\nTickets recommended/required\; non-refundable. Arrive from 17:30.\nOfficial: https://designmuseum.dk/event/faellesspisning-paa-designmuseet-26-11/
-URL:https://designmuseum.dk/event/faellesspisning-paa-designmuseet-26-11/
-LOCATION:Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
+DESCRIPTION:Community dinner around Danish design history\; 185 DKK.
+URL:https://designmuseum.dk/
+LOCATION:Designmuseum Danmark\, Bredgade 68\, Copenhagen K
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:tivoli-nutcracker-2026-11-26@copenhagen-event-radar
-DTSTAMP:20260827T113000Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20261126T190000
 SUMMARY:🩰🎄 The Nutcracker — Tivoli
-DESCRIPTION:Tivoli's acclaimed Christmas ballet with sets and costumes by Queen Margrethe II. Runs 26 Nov–20 Dec with multiple performances\; this calendar entry marks opening night and the link has all showtimes.\nCost: 265–735 DKK incl. Tivoli entrance and fee.\nTickets required.\nOfficial: https://www.tivoli.dk/en/programme/theatre/the-nutcracker
+DESCRIPTION:Tivoli Christmas ballet\; runs through 20 Dec. Tickets 265–735 DKK.
 URL:https://www.tivoli.dk/en/programme/theatre/the-nutcracker
-LOCATION:Tivoli Concert Hall\, Vesterbrogade 3\, Copenhagen V
+LOCATION:Tivoli Concert Hall\, Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:gregory-porter-christmas-tivoli-2026@copenhagen-event-radar
-DTSTAMP:20260827T113000Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20261201T193000
 SUMMARY:🎶🎄 Gregory Porter — Christmas Wish
-DESCRIPTION:Gregory Porter Christmas concert in Tivoli Concert Hall. Also performs 2 Dec at 19:30.\nCost: 545–845 DKK incl. Tivoli entrance and fee.\nTickets required.\nOfficial programme: https://www.tivoli.dk/en/programme
+DESCRIPTION:Christmas concert in Tivoli Concert Hall\; also 2 Dec.
 URL:https://www.tivoli.dk/en/programme
-LOCATION:Tivoli Concert Hall\, Vesterbrogade 3\, Copenhagen V
+LOCATION:Tivoli Concert Hall\, Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:allt-pumpehuset-2026@copenhagen-event-radar
-DTSTAMP:20260827T092000Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20261201T190000
 SUMMARY:🤘🎟️ Allt + Avralize + Bite Down — Pumpehuset
-DESCRIPTION:Swedish progressive metalcore band Allt with Avralize and Bite Down. Doors 19:00\; show 20:00. Strong metalcore pick.\nCost: 265 DKK incl. fee.\nTickets required.\nOfficial: https://pumpehuset.dk/koncerter/allt/
+DESCRIPTION:Progressive metalcore\; doors 19:00\, show 20:00\; 265 DKK.
 URL:https://pumpehuset.dk/koncerter/allt/
-LOCATION:Pumpehuset\, Studiestræde 52\, 1554 Copenhagen V
+LOCATION:Pumpehuset\, Studiestræde 52\, Copenhagen V
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:tivoli-nye-concert-2026@copenhagen-event-radar
-DTSTAMP:20260827T113000Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20261231T153000
 DTEND;TZID=Europe/Copenhagen:20261231T173000
 SUMMARY:🥂🎼 Tivoli New Year's Eve Concert
-DESCRIPTION:Festive Tivoli Copenhagen Phil concert with New Year's classics\, musical hits and operetta. The 15:30 performance has an optional VIP area\; ticket includes Tivoli entry so you can stay for dinner and the 23:00 fireworks.\nCost: 275–795 DKK.\nTickets required.\nOfficial: https://www.tivoli.dk/en/programme/music/new-years-eve-concert
+DESCRIPTION:Festive Tivoli Copenhagen Phil concert\; tickets 275–795 DKK.
 URL:https://www.tivoli.dk/en/programme/music/new-years-eve-concert
-LOCATION:Tivoli Concert Hall\, Vesterbrogade 3\, Copenhagen V
+LOCATION:Tivoli Concert Hall\, Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:tivoli-nye-fireworks-2026@copenhagen-event-radar
-DTSTAMP:20260827T113000Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20261231T230000
 SUMMARY:🎆🥂 Tivoli New Year's Eve Fireworks
-DESCRIPTION:Tivoli's official New Year's Eve fireworks display. Best viewing areas include the Open-Air Stage\, Glass Hall entrances and in front of Nimb. Could pair well with dinner/drinks in or around Tivoli.\nCost: free with Tivoli entrance.\nOfficial: https://www.tivoli.dk/en/programme/events/new-year-s-eve-fireworks
+DESCRIPTION:Official Tivoli New Year's Eve fireworks.
 URL:https://www.tivoli.dk/en/programme/events/new-year-s-eve-fireworks
-LOCATION:Tivoli Gardens\, Vesterbrogade 3\, Copenhagen V
+LOCATION:Tivoli Gardens\, Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:copenhagen-light-festival-2027@copenhagen-event-radar
-DTSTAMP:20260827T125200Z
+DTSTAMP:20260827T131500Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270222
 SUMMARY:✨⭐ Copenhagen Light Festival 2027
-DESCRIPTION:Citywide light-art and lighting-design festival with installations\, projections and events across Copenhagen. Radar will add standout guided tours\, concerts and installations once the detailed programme is available.\nDates: 29 Jan–21 Feb 2027.\nCost: most outdoor works free\; individual special events may require tickets.\nInfo: https://visitorservice.kk.dk/en/events/copenhagen-light-festival
+DESCRIPTION:Citywide light-art festival\; standout individual events will be added as programme appears.
 URL:https://visitorservice.kk.dk/en/events/copenhagen-light-festival
-LOCATION:Copenhagen — citywide
+LOCATION:Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cphfw-aw27-2027@copenhagen-event-radar
-DTSTAMP:20260827T125200Z
+DTSTAMP:20260827T131500Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270206
 SUMMARY:⭐👗 Copenhagen Fashion Week AW27
-DESCRIPTION:Copenhagen Fashion Week AW27. The Radar will track the public Event & Talk Schedule separately — talks\, exhibitions\, breakfasts\, installations\, parties\, showrooms and other public-access side events are more relevant than invitation-only runway shows.\nDates: 1–5 Feb 2027.\nOfficial: https://copenhagenfashionweek.com/
+DESCRIPTION:Public talks\, exhibitions\, installations\, showrooms and side events will be tracked separately.
 URL:https://copenhagenfashionweek.com/
-LOCATION:Copenhagen — multiple venues
+LOCATION:Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:himmelsk-lys-2027-02-25@copenhagen-event-radar
-DTSTAMP:20260827T125200Z
+DTSTAMP:20260827T131500Z
 DTSTART;TZID=Europe/Copenhagen:20270225T200000
 DTEND;TZID=Europe/Copenhagen:20270225T210000
 SUMMARY:⭐✨🎼 Himmelsk lys — DR Vokalensemblet x Light Festival
-DESCRIPTION:DR Vokalensemblet in Marmorkirken with electronic soundscapes and spectacular light design\, exploring sunlight\, moonlight\, stars and northern lights. Previous editions sold out; this is a standout Copenhagen Light Festival event. Additional performances 26–27 Feb.\nTickets: required; only few tickets remain for 25 Feb at time of check. U30 discount applies to many DR choir/orchestra concerts.\nOfficial: https://www.drkoncerthuset.dk/kalender/2027/himmelsk-lys/
+DESCRIPTION:Choir\, electronic soundscapes and light design in Marmorkirken\; additional performances 26–27 Feb.
 URL:https://www.drkoncerthuset.dk/kalender/2027/himmelsk-lys/
-LOCATION:Marmorkirken / Frederikskirken\, Frederiksgade 4\, Copenhagen K
+LOCATION:Marmorkirken\, Copenhagen K
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cphdox-2027@copenhagen-event-radar
-DTSTAMP:20260827T125200Z
+DTSTAMP:20260827T131500Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270322
 SUMMARY:⭐🎬 CPH:DOX 2027
-DESCRIPTION:Copenhagen International Documentary Film Festival. Strong fit for politics\, society\, culture and ideas; Radar will add specific films\, talks and live events when the audience programme is published.\nFestival: 10–21 Mar 2027.\nOfficial: https://cphdox.dk/
+DESCRIPTION:Documentary festival\; strong politics\, society and culture picks will be added from programme.
 URL:https://cphdox.dk/
-LOCATION:Copenhagen — multiple cinemas and cultural venues
+LOCATION:Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:historiske-dage-2027@copenhagen-event-radar
-DTSTAMP:20260827T125200Z
+DTSTAMP:20260827T131500Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270315
 SUMMARY:⭐📚 Historiske Dage 2027
-DESCRIPTION:Denmark's largest history festival: 150+ talks\, debates\, reenactments and presentations across seven stages plus museums\, publishers\, archives and associations. Extremely strong history/education fit; specific mythology/antiquity/politics picks will be added once the 2027 programme is released.\nDates: 13–14 Mar 2027. Sat 10–18\, Sun 10–17.\nTickets: online only; under 18 free.\nOfficial: https://historiskedage.dk/
+DESCRIPTION:Large history festival with 150+ talks\, debates and presentations.
 URL:https://historiskedage.dk/
-LOCATION:Øksnehallen\, Halmtorvet 11\, Copenhagen V
+LOCATION:Øksnehallen\, Copenhagen V
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a-colossal-weekend-2027@copenhagen-event-radar
-DTSTAMP:20260827T125200Z
+DTSTAMP:20260827T131500Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270516
 SUMMARY:🤘⭐ A Colossal Weekend 2027
-DESCRIPTION:Three-day Copenhagen festival focused on adventurous heavy music — post-metal\, progressive\, alternative and adjacent experimental heavy genres. Strong music fit and worth tracking for lineup/ticket drops.\nDates: 13–15 May 2027.\nOfficial: https://www.acolossalweekend.dk/
+DESCRIPTION:Three-day adventurous heavy-music festival.
 URL:https://www.acolossalweekend.dk/
-LOCATION:Copenhagen — VEGA / associated venues
+LOCATION:Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bloom-festival-2027@copenhagen-event-radar
-DTSTAMP:20260827T125200Z
+DTSTAMP:20260827T131500Z
 DTSTART;VALUE=DATE:20270528
 DTEND;VALUE=DATE:20270531
 SUMMARY:⭐🧠🌿 Bloom Festival 2027
-DESCRIPTION:Free festival about nature and science in Søndermarken. Previous programmes combine in-depth talks by international researchers with outdoor art\, walks and concerts. Strong analog-learning / ideas event.\nDates: 28–30 May 2027.\nCost: free entry.\nOfficial: https://www.bloom.ooo/
+DESCRIPTION:Free nature and science festival in Søndermarken.
 URL:https://www.bloom.ooo/
 LOCATION:Søndermarken\, Frederiksberg
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:distortion-2027@copenhagen-event-radar
-DTSTAMP:20260827T125200Z
+DTSTAMP:20260827T131500Z
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270607
 SUMMARY:🎶💃 Distortion 2027
-DESCRIPTION:Copenhagen's citywide street-party and electronic-music festival. Radar will filter the detailed programme rather than adding every party; Distortion Ø runs 4–5 June.\nDates: 2–6 Jun 2027.\nTickets: festival passes already announced; many street elements differ by programme.\nOfficial: https://www.cphdistortion.dk/
+DESCRIPTION:Citywide street-party/electronic festival\; only strongest individual events will be added.
 URL:https://www.cphdistortion.dk/
-LOCATION:Copenhagen — citywide / Refshaleøen
+LOCATION:Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cph-stage-2027@copenhagen-event-radar
-DTSTAMP:20260827T125200Z
+DTSTAMP:20260827T131500Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270613
 SUMMARY:⭐🎭 CPH STAGE 2027
-DESCRIPTION:Denmark's largest professional theatre festival across Copenhagen and Frederiksberg\, including Danish and international touring productions plus talks\, readings\, workshops\, debates and parties. Radar should favor international/original-language and exceptional productions.\nFestival: 3–12 Jun 2027; opening 2 Jun.\nOfficial: https://www.cphstage.dk/en
+DESCRIPTION:Professional theatre festival\; prioritize international/original-language and exceptional productions.
 URL:https://www.cphstage.dk/en
-LOCATION:Copenhagen & Frederiksberg — multiple venues
+LOCATION:Copenhagen & Frederiksberg
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3daysofdesign-2027@copenhagen-event-radar
-DTSTAMP:20260827T125200Z
+DTSTAMP:20260827T131500Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270612
 SUMMARY:⭐🪑 3daysofdesign 2027
-DESCRIPTION:Major Copenhagen design festival with showrooms\, installations\, exhibitions\, talks and launches throughout the city. Highest-priority design framework: Radar will add standout individual showrooms/events as the 2027 programme appears.\nDates: 9–11 Jun 2027.\nOfficial: https://www.3daysofdesign.dk/
+DESCRIPTION:Major design festival with showrooms\, installations\, exhibitions\, talks and launches.
 URL:https://www.3daysofdesign.dk/
-LOCATION:Copenhagen — citywide
+LOCATION:Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:copenhell-2027@copenhagen-event-radar
-DTSTAMP:20260827T125200Z
+DTSTAMP:20260827T131500Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270627
 SUMMARY:🤘🔥 COPENHELL 2027
-DESCRIPTION:Denmark's largest metal festival on Refshaleøen. Strong priority for metalcore\, alternative metal and adjacent lineup announcements; Radar will add especially relevant individual artists once announced.\nDates: 23–26 Jun 2027.\nOfficial: https://copenhell.dk/en/front-page/
+DESCRIPTION:Major metal festival\; relevant metalcore/alternative artists will be added separately.
 URL:https://copenhell.dk/en/front-page/
 LOCATION:Refshaleøen\, Copenhagen
 STATUS:CONFIRMED
