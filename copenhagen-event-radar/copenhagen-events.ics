@@ -31,72 +31,6 @@ LOCATION:Holy Bean Coffee & Cocktails\, Ravnsborggade 14A\, 2200 Copenhagen N
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:wholesome-sculpt-spritzes-2026@copenhagen-event-radar
-DTSTAMP:20260827T094500Z
-DTSTART;TZID=Europe/Copenhagen:20260908T191500
-DTEND;TZID=Europe/Copenhagen:20260908T213000
-SUMMARY:⭐🎟️ Wholesome CPH — Late-Night Sculpt & Spritzes
-DESCRIPTION:Mat-based sculpt class using weights/props at Some Good Moves followed by a full social hour with spritzes\, snacks and music. Limited to 18 spots.\nCost: 229 DKK.\nTickets required.\nOfficial: https://www.wholesomecph.dk/events/late-night-sculpt-spritzes
-URL:https://www.wholesomecph.dk/events/late-night-sculpt-spritzes
-LOCATION:Some Good Moves\, Vesterbro\, Copenhagen
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:wholesome-social-padel-2026@copenhagen-event-radar
-DTSTAMP:20260827T094500Z
-DTSTART;TZID=Europe/Copenhagen:20260909T180000
-DTEND;TZID=Europe/Copenhagen:20260909T210000
-SUMMARY:⭐🎟️ Wholesome CPH x Stellar — Social Padel
-DESCRIPTION:Social padel with beginner-friendly 'Have a hit' and Americano options. Includes two hours of courts\, racket/ball hire and refreshments. Good repeated-contact sport/community format.\nCost: prepaid ticket required\; check current event page for price.\nRegistration required\; limited spots.\nOfficial: https://www.wholesomecph.dk/events/padel
-URL:https://www.wholesomecph.dk/events/padel
-LOCATION:Padel Yard\, Reffen\, Copenhagen
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:wholesome-beatriders-rave-2026@copenhagen-event-radar
-DTSTAMP:20260827T094500Z
-DTSTART;TZID=Europe/Copenhagen:20260918T183000
-DTEND;TZID=Europe/Copenhagen:20260918T213000
-SUMMARY:⭐🎟️ Wholesome CPH — Beatriders x Activewear Rave
-DESCRIPTION:Beat-driven spin class followed by a two-hour live-DJ social/rave with complimentary drinks and snacks. Strong movement + party crossover.\nCost: 239 DKK.\nTickets required\; limited spots.\nOfficial: https://www.wholesomecph.dk/events/beatriders-x-activewear-rave
-URL:https://www.wholesomecph.dk/events/beatriders-x-activewear-rave
-LOCATION:Beatriders\, Islands Brygge\, Copenhagen
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:wholesome-dinner-dj-sept-2026@copenhagen-event-radar
-DTSTAMP:20260827T094500Z
-DTSTART;TZID=Europe/Copenhagen:20260919T173000
-DTEND;TZID=Europe/Copenhagen:20260919T203000
-SUMMARY:⭐🎟️ Wholesome CPH — Dinner & DJ Session: Latin Edition
-DESCRIPTION:Intimate apartment dinner for 15 with a five-dish Latin-inspired sharing menu\, welcome cocktail and live house DJ throughout. Especially good small-group social format.\nCost: 359 DKK.\nTickets required\; intentionally limited to 15 spots.\nOfficial: https://www.wholesomecph.dk/events/dj-dinner-party-5h65f
-URL:https://www.wholesomecph.dk/events/dj-dinner-party-5h65f
-LOCATION:Private apartment\, Islands Brygge\, Copenhagen
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:wholesome-sunrise-swim-sept-2026@copenhagen-event-radar
-DTSTAMP:20260827T094500Z
-DTSTART;TZID=Europe/Copenhagen:20260923T064500
-DTEND;TZID=Europe/Copenhagen:20260923T083000
-SUMMARY:🆓🏊 Wholesome CPH — Sunrise Swim Club
-DESCRIPTION:Casual sunrise swim followed by coffee and baked goods. Swimming is optional and people can leave early for work. Nice low-pressure recurring-community style event.\nCost: free.\nRegistration: none — just show up.\nOfficial: https://www.wholesomecph.dk/events/swimclub-sunrise-xdfsw
-URL:https://www.wholesomecph.dk/events/swimclub-sunrise-xdfsw
-LOCATION:Sandkaj\, Nordhavn\, Copenhagen
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:wholesome-third-birthday-2026@copenhagen-event-radar
-DTSTAMP:20260827T094500Z
-DTSTART;TZID=Europe/Copenhagen:20261001T180000
-DTEND;TZID=Europe/Copenhagen:20261001T210000
-SUMMARY:🎉 Wholesome CPH — 3rd Birthday
-DESCRIPTION:Wholesome Copenhagen's third-birthday community event. More participation details are published through Wholesome's event page/social channels.\nCost/tickets: check current event details.\nOfficial: https://www.wholesomecph.dk/events
-URL:https://www.wholesomecph.dk/events
-LOCATION:Copenhagen — check Wholesome for final venue details
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:golden-days-monster-2026@copenhagen-event-radar
 DTSTAMP:20260827T092000Z
 DTSTART;VALUE=DATE:20260904
@@ -151,6 +85,17 @@ LOCATION:Konservatoriets Koncertsal\, Frederiksberg
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:wholesome-sculpt-spritzes-2026@copenhagen-event-radar
+DTSTAMP:20260827T094500Z
+DTSTART;TZID=Europe/Copenhagen:20260908T191500
+DTEND;TZID=Europe/Copenhagen:20260908T213000
+SUMMARY:⭐🎟️ Wholesome CPH — Late-Night Sculpt & Spritzes
+DESCRIPTION:Mat-based sculpt class using weights/props at Some Good Moves followed by a full social hour with spritzes\, snacks and music. Limited to 18 spots.\nCost: 229 DKK.\nTickets required.\nOfficial: https://www.wholesomecph.dk/events/late-night-sculpt-spritzes
+URL:https://www.wholesomecph.dk/events/late-night-sculpt-spritzes
+LOCATION:Some Good Moves\, Vesterbro\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:golden-days-art-imperialism-2026@copenhagen-event-radar
 DTSTAMP:20260827T092000Z
 DTSTART;TZID=Europe/Copenhagen:20260909T170000
@@ -158,6 +103,17 @@ SUMMARY:⭐🎟️ Golden Days — Kunst i imperialismens skygge
 DESCRIPTION:Conversation on Orientalism\, imperialism and how art reinforces or challenges stereotypes. Strong art + politics + society fit.\nCost: 50 DKK.\nTickets required.\nOfficial: https://www.goldendays.dk/
 URL:https://www.goldendays.dk/
 LOCATION:Davids Samling\, Kronprinsessegade 30-32\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wholesome-social-padel-2026@copenhagen-event-radar
+DTSTAMP:20260827T094500Z
+DTSTART;TZID=Europe/Copenhagen:20260909T180000
+DTEND;TZID=Europe/Copenhagen:20260909T210000
+SUMMARY:⭐🎟️ Wholesome CPH x Stellar — Social Padel
+DESCRIPTION:Social padel with beginner-friendly 'Have a hit' and Americano options. Includes two hours of courts\, racket/ball hire and refreshments. Good repeated-contact sport/community format.\nCost: prepaid ticket required\; check current event page for price.\nRegistration required\; limited spots.\nOfficial: https://www.wholesomecph.dk/events/padel
+URL:https://www.wholesomecph.dk/events/padel
+LOCATION:Padel Yard\, Reffen\, Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -169,6 +125,17 @@ SUMMARY:⭐🆓 Golden Days — Verdenstraumer: Udenrigspolitikkens skurke
 DESCRIPTION:Foreign-policy discussion on Russia\, North Korea and Iran within the festival theme of villains\, power and enemy images. Strong politics/society fit.\nCost: free.\nOfficial: https://www.goldendays.dk/
 URL:https://www.goldendays.dk/
 LOCATION:Politikens Boghal\, Rådhuspladsen\, Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:absalon-dinner-pubquiz-en-2026-09-10@copenhagen-event-radar
+DTSTAMP:20260827T113000Z
+DTSTART;TZID=Europe/Copenhagen:20260910T170000
+DTEND;TZID=Europe/Copenhagen:20260910T220000
+SUMMARY:🍽️🧠 Absalon — Dinner & Pubquiz (English)
+DESCRIPTION:Community dinner followed by an English-language pub quiz. Better Absalon fit than a generic drop-in: structured social context\, mixed knowledge questions and dinner at shared tables.\nCost: 150 DKK.\nTickets required/recommended.\nOfficial: https://absaloncph.dk/begivenhed/dinner-pubquiz-10/
+URL:https://absaloncph.dk/begivenhed/dinner-pubquiz-10/
+LOCATION:Folkehuset Absalon\, Sønder Boulevard 73\, 1720 Copenhagen V
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -226,6 +193,39 @@ LOCATION:Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:wholesome-beatriders-rave-2026@copenhagen-event-radar
+DTSTAMP:20260827T094500Z
+DTSTART;TZID=Europe/Copenhagen:20260918T183000
+DTEND;TZID=Europe/Copenhagen:20260918T213000
+SUMMARY:⭐🎟️ Wholesome CPH — Beatriders x Activewear Rave
+DESCRIPTION:Beat-driven spin class followed by a two-hour live-DJ social/rave with complimentary drinks and snacks. Strong movement + party crossover.\nCost: 239 DKK.\nTickets required\; limited spots.\nOfficial: https://www.wholesomecph.dk/events/beatriders-x-activewear-rave
+URL:https://www.wholesomecph.dk/events/beatriders-x-activewear-rave
+LOCATION:Beatriders\, Islands Brygge\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wholesome-dinner-dj-sept-2026@copenhagen-event-radar
+DTSTAMP:20260827T094500Z
+DTSTART;TZID=Europe/Copenhagen:20260919T173000
+DTEND;TZID=Europe/Copenhagen:20260919T203000
+SUMMARY:⭐🎟️ Wholesome CPH — Dinner & DJ Session: Latin Edition
+DESCRIPTION:Intimate apartment dinner for 15 with a five-dish Latin-inspired sharing menu\, welcome cocktail and live house DJ throughout. Especially good small-group social format.\nCost: 359 DKK.\nTickets required\; intentionally limited to 15 spots.\nOfficial: https://www.wholesomecph.dk/events/dj-dinner-party-5h65f
+URL:https://www.wholesomecph.dk/events/dj-dinner-party-5h65f
+LOCATION:Private apartment\, Islands Brygge\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wholesome-sunrise-swim-sept-2026@copenhagen-event-radar
+DTSTAMP:20260827T094500Z
+DTSTART;TZID=Europe/Copenhagen:20260923T064500
+DTEND;TZID=Europe/Copenhagen:20260923T083000
+SUMMARY:🆓🏊 Wholesome CPH — Sunrise Swim Club
+DESCRIPTION:Casual sunrise swim followed by coffee and baked goods. Swimming is optional and people can leave early for work. Nice low-pressure recurring-community style event.\nCost: free.\nRegistration: none — just show up.\nOfficial: https://www.wholesomecph.dk/events/swimclub-sunrise-xdfsw
+URL:https://www.wholesomecph.dk/events/swimclub-sunrise-xdfsw
+LOCATION:Sandkaj\, Nordhavn\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:dine-design-2026-09-24@copenhagen-event-radar
 DTSTAMP:20260827T092000Z
 DTSTART;TZID=Europe/Copenhagen:20260924T180000
@@ -242,9 +242,20 @@ DTSTAMP:20260827T092000Z
 DTSTART;TZID=Europe/Copenhagen:20260929T083000
 DTEND;TZID=Europe/Copenhagen:20260929T093000
 SUMMARY:⭐🆓 MORGENFORMAT — Når design bliver til betydning
-DESCRIPTION:Bo Linnemann of Kontrapunkt and Anders Thulin of the Royal Danish Academy discuss graphic design's role in how we understand\, remember and feel — including branding\, trust\, authority and manipulation. Filter coffee included.\nCost: free.\nRegistration required\; limited places. Doors/coffee bar 08:00.\nOfficial: https://designmuseum.dk/event/morgenformat-naar-design-bliver-til-bedeutung/
-URL:https://designmuseum.dk/event/morgenformat-naar-design-bliver-til-bedeutung/
+DESCRIPTION:Bo Linnemann of Kontrapunkt and Anders Thulin of the Royal Danish Academy discuss graphic design's role in how we understand\, remember and feel — including branding\, trust\, authority and manipulation. Filter coffee included.\nCost: free.\nRegistration required\; limited places. Doors/coffee bar 08:00.\nOfficial: https://designmuseum.dk/event/morgenformat-naar-design-bliver-til-betydning/
+URL:https://designmuseum.dk/event/morgenformat-naar-design-bliver-til-betydning/
 LOCATION:FORMAT at Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wholesome-third-birthday-2026@copenhagen-event-radar
+DTSTAMP:20260827T094500Z
+DTSTART;TZID=Europe/Copenhagen:20261001T180000
+DTEND;TZID=Europe/Copenhagen:20261001T210000
+SUMMARY:🎉 Wholesome CPH — 3rd Birthday
+DESCRIPTION:Wholesome Copenhagen's third-birthday community event. More participation details are published through Wholesome's event page/social channels.\nCost/tickets: check current event details.\nOfficial: https://www.wholesomecph.dk/events
+URL:https://www.wholesomecph.dk/events
+LOCATION:Copenhagen — check Wholesome for final venue details
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -256,6 +267,17 @@ SUMMARY:🎟️ DINE & DESIGN — Designmuseum Danmark
 DESCRIPTION:Recurring community dinner around Danish design history.\nCost: 185 DKK adult. Museum admission not included.\nTickets recommended/required\; non-refundable. Arrive from 17:30.\nOfficial: https://designmuseum.dk/event/faellesspisning-paa-designmuseet-01-10/
 URL:https://designmuseum.dk/event/faellesspisning-paa-designmuseet-01-10/
 LOCATION:Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tivoli-halloween-2026@copenhagen-event-radar
+DTSTAMP:20260827T113000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261102
+SUMMARY:🎃⭐ Halloween in Tivoli 2026
+DESCRIPTION:Tivoli's full Halloween season with 20\,000+ pumpkins\, autumn food stalls\, haunted attractions and nightly Halloween Illuminations on the lake. Worth an evening visit rather than treating it as a children's event.\nDates: 2 Oct–1 Nov 2026.\nCost: Tivoli entrance\; individual attractions may cost extra.\nOfficial: https://www.tivoli.dk/en/opening-hours-and-seasons/halloween-in-tivoli
+URL:https://www.tivoli.dk/en/opening-hours-and-seasons/halloween-in-tivoli
+LOCATION:Tivoli Gardens\, Vesterbrogade 3\, 1630 Copenhagen V
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -281,6 +303,28 @@ LOCATION:Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:nytorv-christmas-market-2026@copenhagen-event-radar
+DTSTAMP:20260827T113000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261222
+SUMMARY:🎄 Copenhagen Christmas Market — Nytorv
+DESCRIPTION:Central Copenhagen Christmas market at Nytorv/Gammeltorv. Useful seasonal marker for a city-centre Christmas evening rather than a must-do standalone event.\nDates: 6 Nov–21 Dec 2026.\nOfficial city listing: https://visitorservice.kk.dk/en/events/christmas-events
+URL:https://visitorservice.kk.dk/en/events/christmas-events
+LOCATION:Nytorv / Gammeltorv\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tivoli-christmas-2026@copenhagen-event-radar
+DTSTAMP:20260827T113000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20270104
+SUMMARY:🎄⭐ Christmas in Tivoli 2026
+DESCRIPTION:Tivoli's Christmas season with illuminated gardens\, Christmas stalls\, restaurants and seasonal performances. Radar will track standout concerts\, ballet and NYE events separately.\nDates: 13 Nov 2026–3 Jan 2027.\nCost: Tivoli entrance unless included with a show ticket.\nOfficial: https://www.tivoli.dk/en/opening-hours-and-seasons/christmas-in-tivoli
+URL:https://www.tivoli.dk/en/opening-hours-and-seasons/christmas-in-tivoli
+LOCATION:Tivoli Gardens\, Vesterbrogade 3\, 1630 Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:dine-design-2026-11-12@copenhagen-event-radar
 DTSTAMP:20260827T092000Z
 DTSTART;TZID=Europe/Copenhagen:20261112T180000
@@ -303,6 +347,26 @@ LOCATION:Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:tivoli-nutcracker-2026-11-26@copenhagen-event-radar
+DTSTAMP:20260827T113000Z
+DTSTART;TZID=Europe/Copenhagen:20261126T190000
+SUMMARY:🩰🎄 The Nutcracker — Tivoli
+DESCRIPTION:Tivoli's acclaimed Christmas ballet with sets and costumes by Queen Margrethe II. Runs 26 Nov–20 Dec with multiple performances\; this calendar entry marks opening night and the link has all showtimes.\nCost: 265–735 DKK incl. Tivoli entrance and fee.\nTickets required.\nOfficial: https://www.tivoli.dk/en/programme/theatre/the-nutcracker
+URL:https://www.tivoli.dk/en/programme/theatre/the-nutcracker
+LOCATION:Tivoli Concert Hall\, Vesterbrogade 3\, Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:gregory-porter-christmas-tivoli-2026@copenhagen-event-radar
+DTSTAMP:20260827T113000Z
+DTSTART;TZID=Europe/Copenhagen:20261201T193000
+SUMMARY:🎶🎄 Gregory Porter — Christmas Wish
+DESCRIPTION:Gregory Porter Christmas concert in Tivoli Concert Hall. Also performs 2 Dec at 19:30.\nCost: 545–845 DKK incl. Tivoli entrance and fee.\nTickets required.\nOfficial programme: https://www.tivoli.dk/en/programme
+URL:https://www.tivoli.dk/en/programme
+LOCATION:Tivoli Concert Hall\, Vesterbrogade 3\, Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:allt-pumpehuset-2026@copenhagen-event-radar
 DTSTAMP:20260827T092000Z
 DTSTART;TZID=Europe/Copenhagen:20261201T190000
@@ -310,6 +374,27 @@ SUMMARY:🤘🎟️ Allt + Avralize + Bite Down — Pumpehuset
 DESCRIPTION:Swedish progressive metalcore band Allt with Avralize and Bite Down. Doors 19:00\; show 20:00. Strong metalcore pick.\nCost: 265 DKK incl. fee.\nTickets required.\nOfficial: https://pumpehuset.dk/koncerter/allt/
 URL:https://pumpehuset.dk/koncerter/allt/
 LOCATION:Pumpehuset\, Studiestræde 52\, 1554 Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tivoli-nye-concert-2026@copenhagen-event-radar
+DTSTAMP:20260827T113000Z
+DTSTART;TZID=Europe/Copenhagen:20261231T153000
+DTEND;TZID=Europe/Copenhagen:20261231T173000
+SUMMARY:🥂🎼 Tivoli New Year's Eve Concert
+DESCRIPTION:Festive Tivoli Copenhagen Phil concert with New Year's classics\, musical hits and operetta. The 15:30 performance has an optional VIP area\; ticket includes Tivoli entry so you can stay for dinner and the 23:00 fireworks.\nCost: 275–795 DKK.\nTickets required.\nOfficial: https://www.tivoli.dk/en/programme/music/new-years-eve-concert
+URL:https://www.tivoli.dk/en/programme/music/new-years-eve-concert
+LOCATION:Tivoli Concert Hall\, Vesterbrogade 3\, Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tivoli-nye-fireworks-2026@copenhagen-event-radar
+DTSTAMP:20260827T113000Z
+DTSTART;TZID=Europe/Copenhagen:20261231T230000
+SUMMARY:🎆🥂 Tivoli New Year's Eve Fireworks
+DESCRIPTION:Tivoli's official New Year's Eve fireworks display. Best viewing areas include the Open-Air Stage\, Glass Hall entrances and in front of Nimb. Could pair well with dinner/drinks in or around Tivoli.\nCost: free with Tivoli entrance.\nOfficial: https://www.tivoli.dk/en/programme/events/new-year-s-eve-fireworks
+URL:https://www.tivoli.dk/en/programme/events/new-year-s-eve-fireworks
+LOCATION:Tivoli Gardens\, Vesterbrogade 3\, Copenhagen V
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
