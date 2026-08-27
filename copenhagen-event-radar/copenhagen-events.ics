@@ -20,6 +20,17 @@ LOCATION:Green Island of Copenhagen\, near Kalvebod Brygge
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:storynights-2026-09-01@copenhagen-event-radar
+DTSTAMP:20260827T125200Z
+DTSTART;TZID=Europe/Copenhagen:20260901T180000
+DTEND;TZID=Europe/Copenhagen:20260901T193000
+SUMMARY:⭐📚 Storynights Book Club — Union
+DESCRIPTION:Recurring English-language book club focused on creativity\, artistic lives\, cultural movements and remarkable stories\, selected for reflection and discussion. Strong repeated-contact culture/learning lead.\nCost: free.\nJoining: email storynightscph@gmail.com with subject “Book Club”.\nInfo: https://hvaderpaa.dk/en/event/3771/
+URL:https://hvaderpaa.dk/en/event/3771/
+LOCATION:Union\, Nørre Allé 7\, 2200 Copenhagen N
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:wholesome-knit-martini-2026@copenhagen-event-radar
 DTSTAMP:20260827T094500Z
 DTSTART;TZID=Europe/Copenhagen:20260903T180000
@@ -281,6 +292,17 @@ LOCATION:Tivoli Gardens\, Vesterbrogade 3\, 1630 Copenhagen V
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:storynights-2026-10-06@copenhagen-event-radar
+DTSTAMP:20260827T125200Z
+DTSTART;TZID=Europe/Copenhagen:20261006T180000
+DTEND;TZID=Europe/Copenhagen:20261006T193000
+SUMMARY:⭐📚 Storynights Book Club — Union
+DESCRIPTION:Second published autumn meeting of the recurring Storynights Book Club on creativity\, artistic lives\, cultural movements and remarkable stories.\nCost: free.\nJoining: email storynightscph@gmail.com with subject “Book Club”.\nInfo: https://hvaderpaa.dk/en/event/3771/
+URL:https://hvaderpaa.dk/en/event/3771/
+LOCATION:Union\, Nørre Allé 7\, 2200 Copenhagen N
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:dining-week-october-2026@copenhagen-event-radar
 DTSTAMP:20260827T092000Z
 DTSTART;VALUE=DATE:20261009
@@ -333,6 +355,17 @@ SUMMARY:🎟️ DINE & DESIGN — Designmuseum Danmark
 DESCRIPTION:Recurring community dinner around Danish design history.\nCost: 185 DKK adult. Museum admission not included.\nTickets recommended/required\; non-refundable. Arrive from 17:30.\nOfficial: https://designmuseum.dk/en/event/dine-design-community-dining-at-the-design-museum-12-11/
 URL:https://designmuseum.dk/en/event/dine-design-community-dining-at-the-design-museum-12-11/
 LOCATION:Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:storynights-2026-11-24@copenhagen-event-radar
+DTSTAMP:20260827T125200Z
+DTSTART;TZID=Europe/Copenhagen:20261124T180000
+DTEND;TZID=Europe/Copenhagen:20261124T193000
+SUMMARY:⭐📚 Storynights Book Club — Union
+DESCRIPTION:Third currently published Storynights Book Club meeting. The series is a strong recurring-community candidate because it combines culture\, discussion and repeated contact.\nCost: free.\nJoining: email storynightscph@gmail.com with subject “Book Club”.\nInfo: https://hvaderpaa.dk/en/event/3771/
+URL:https://hvaderpaa.dk/en/event/3771/
+LOCATION:Union\, Nørre Allé 7\, 2200 Copenhagen N
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -395,6 +428,127 @@ SUMMARY:🎆🥂 Tivoli New Year's Eve Fireworks
 DESCRIPTION:Tivoli's official New Year's Eve fireworks display. Best viewing areas include the Open-Air Stage\, Glass Hall entrances and in front of Nimb. Could pair well with dinner/drinks in or around Tivoli.\nCost: free with Tivoli entrance.\nOfficial: https://www.tivoli.dk/en/programme/events/new-year-s-eve-fireworks
 URL:https://www.tivoli.dk/en/programme/events/new-year-s-eve-fireworks
 LOCATION:Tivoli Gardens\, Vesterbrogade 3\, Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:copenhagen-light-festival-2027@copenhagen-event-radar
+DTSTAMP:20260827T125200Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270222
+SUMMARY:✨⭐ Copenhagen Light Festival 2027
+DESCRIPTION:Citywide light-art and lighting-design festival with installations\, projections and events across Copenhagen. Radar will add standout guided tours\, concerts and installations once the detailed programme is available.\nDates: 29 Jan–21 Feb 2027.\nCost: most outdoor works free\; individual special events may require tickets.\nInfo: https://visitorservice.kk.dk/en/events/copenhagen-light-festival
+URL:https://visitorservice.kk.dk/en/events/copenhagen-light-festival
+LOCATION:Copenhagen — citywide
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cphfw-aw27-2027@copenhagen-event-radar
+DTSTAMP:20260827T125200Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270206
+SUMMARY:⭐👗 Copenhagen Fashion Week AW27
+DESCRIPTION:Copenhagen Fashion Week AW27. The Radar will track the public Event & Talk Schedule separately — talks\, exhibitions\, breakfasts\, installations\, parties\, showrooms and other public-access side events are more relevant than invitation-only runway shows.\nDates: 1–5 Feb 2027.\nOfficial: https://copenhagenfashionweek.com/
+URL:https://copenhagenfashionweek.com/
+LOCATION:Copenhagen — multiple venues
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:himmelsk-lys-2027-02-25@copenhagen-event-radar
+DTSTAMP:20260827T125200Z
+DTSTART;TZID=Europe/Copenhagen:20270225T200000
+DTEND;TZID=Europe/Copenhagen:20270225T210000
+SUMMARY:⭐✨🎼 Himmelsk lys — DR Vokalensemblet x Light Festival
+DESCRIPTION:DR Vokalensemblet in Marmorkirken with electronic soundscapes and spectacular light design\, exploring sunlight\, moonlight\, stars and northern lights. Previous editions sold out; this is a standout Copenhagen Light Festival event. Additional performances 26–27 Feb.\nTickets: required; only few tickets remain for 25 Feb at time of check. U30 discount applies to many DR choir/orchestra concerts.\nOfficial: https://www.drkoncerthuset.dk/kalender/2027/himmelsk-lys/
+URL:https://www.drkoncerthuset.dk/kalender/2027/himmelsk-lys/
+LOCATION:Marmorkirken / Frederikskirken\, Frederiksgade 4\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cphdox-2027@copenhagen-event-radar
+DTSTAMP:20260827T125200Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270322
+SUMMARY:⭐🎬 CPH:DOX 2027
+DESCRIPTION:Copenhagen International Documentary Film Festival. Strong fit for politics\, society\, culture and ideas; Radar will add specific films\, talks and live events when the audience programme is published.\nFestival: 10–21 Mar 2027.\nOfficial: https://cphdox.dk/
+URL:https://cphdox.dk/
+LOCATION:Copenhagen — multiple cinemas and cultural venues
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:historiske-dage-2027@copenhagen-event-radar
+DTSTAMP:20260827T125200Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270315
+SUMMARY:⭐📚 Historiske Dage 2027
+DESCRIPTION:Denmark's largest history festival: 150+ talks\, debates\, reenactments and presentations across seven stages plus museums\, publishers\, archives and associations. Extremely strong history/education fit; specific mythology/antiquity/politics picks will be added once the 2027 programme is released.\nDates: 13–14 Mar 2027. Sat 10–18\, Sun 10–17.\nTickets: online only; under 18 free.\nOfficial: https://historiskedage.dk/
+URL:https://historiskedage.dk/
+LOCATION:Øksnehallen\, Halmtorvet 11\, Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a-colossal-weekend-2027@copenhagen-event-radar
+DTSTAMP:20260827T125200Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270516
+SUMMARY:🤘⭐ A Colossal Weekend 2027
+DESCRIPTION:Three-day Copenhagen festival focused on adventurous heavy music — post-metal\, progressive\, alternative and adjacent experimental heavy genres. Strong music fit and worth tracking for lineup/ticket drops.\nDates: 13–15 May 2027.\nOfficial: https://www.acolossalweekend.dk/
+URL:https://www.acolossalweekend.dk/
+LOCATION:Copenhagen — VEGA / associated venues
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bloom-festival-2027@copenhagen-event-radar
+DTSTAMP:20260827T125200Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270531
+SUMMARY:⭐🧠🌿 Bloom Festival 2027
+DESCRIPTION:Free festival about nature and science in Søndermarken. Previous programmes combine in-depth talks by international researchers with outdoor art\, walks and concerts. Strong analog-learning / ideas event.\nDates: 28–30 May 2027.\nCost: free entry.\nOfficial: https://www.bloom.ooo/
+URL:https://www.bloom.ooo/
+LOCATION:Søndermarken\, Frederiksberg
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:distortion-2027@copenhagen-event-radar
+DTSTAMP:20260827T125200Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270607
+SUMMARY:🎶💃 Distortion 2027
+DESCRIPTION:Copenhagen's citywide street-party and electronic-music festival. Radar will filter the detailed programme rather than adding every party; Distortion Ø runs 4–5 June.\nDates: 2–6 Jun 2027.\nTickets: festival passes already announced; many street elements differ by programme.\nOfficial: https://www.cphdistortion.dk/
+URL:https://www.cphdistortion.dk/
+LOCATION:Copenhagen — citywide / Refshaleøen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cph-stage-2027@copenhagen-event-radar
+DTSTAMP:20260827T125200Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270613
+SUMMARY:⭐🎭 CPH STAGE 2027
+DESCRIPTION:Denmark's largest professional theatre festival across Copenhagen and Frederiksberg\, including Danish and international touring productions plus talks\, readings\, workshops\, debates and parties. Radar should favor international/original-language and exceptional productions.\nFestival: 3–12 Jun 2027; opening 2 Jun.\nOfficial: https://www.cphstage.dk/en
+URL:https://www.cphstage.dk/en
+LOCATION:Copenhagen & Frederiksberg — multiple venues
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3daysofdesign-2027@copenhagen-event-radar
+DTSTAMP:20260827T125200Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270612
+SUMMARY:⭐🪑 3daysofdesign 2027
+DESCRIPTION:Major Copenhagen design festival with showrooms\, installations\, exhibitions\, talks and launches throughout the city. Highest-priority design framework: Radar will add standout individual showrooms/events as the 2027 programme appears.\nDates: 9–11 Jun 2027.\nOfficial: https://www.3daysofdesign.dk/
+URL:https://www.3daysofdesign.dk/
+LOCATION:Copenhagen — citywide
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:copenhell-2027@copenhagen-event-radar
+DTSTAMP:20260827T125200Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270627
+SUMMARY:🤘🔥 COPENHELL 2027
+DESCRIPTION:Denmark's largest metal festival on Refshaleøen. Strong priority for metalcore\, alternative metal and adjacent lineup announcements; Radar will add especially relevant individual artists once announced.\nDates: 23–26 Jun 2027.\nOfficial: https://copenhell.dk/en/front-page/
+URL:https://copenhell.dk/en/front-page/
+LOCATION:Refshaleøen\, Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
