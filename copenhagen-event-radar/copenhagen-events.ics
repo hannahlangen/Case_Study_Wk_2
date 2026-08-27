@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Copenhagen Event Radar//ChatGPT//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Copenhagen Event Radar
+X-WR-CALDESC:Curated Copenhagen culture\, design\, learning\, social\, food\, music and nightlife events.
+X-WR-TIMEZONE:Europe/Copenhagen
+X-PUBLISHED-TTL:PT6H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+BEGIN:VEVENT
+UID:golden-days-monster-2026@copenhagen-event-radar
+DTSTAMP:20260827T092000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260921
+SUMMARY:⭐ Golden Days: MONSTER
+DESCRIPTION:Festival framework with 200+ events on monsters\, villains\, power\, fear\, art\, history and society. Individual Radar picks are added separately.\nCost: varies by event\; many are free.\nTickets: depends on event.\nOfficial: https://www.goldendays.dk/goldendays-monster
+URL:https://www.goldendays.dk/goldendays-monster
+LOCATION:Copenhagen and surroundings
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:golden-days-opening-2026@copenhagen-event-radar
+DTSTAMP:20260827T092000Z
+DTSTART;TZID=Europe/Copenhagen:20260904T160000
+DTEND;TZID=Europe/Copenhagen:20260904T230000
+SUMMARY:⭐🆓 Golden Days Opening — Welcome to the Dark Side
+DESCRIPTION:Free opening party with talks\, performances\, ghost stories and concerts in Kødbyen. Strong culture + social-atmosphere pick.\nCost: free.\nTickets/registration: free participation.\nOfficial: https://www.goldendays.dk/abningsfest
+URL:https://www.goldendays.dk/abningsfest
+LOCATION:Sort/Hvid\, Kødbyen\, Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:golden-days-monsteropera-2026@copenhagen-event-radar
+DTSTAMP:20260827T092000Z
+DTSTART;TZID=Europe/Copenhagen:20260907T190000
+DTEND;TZID=Europe/Copenhagen:20260907T200000
+SUMMARY:⭐🎟️ Golden Days — Underjordisk monsteropera
+DESCRIPTION:Opera villains performed underground in Cisternerne by singers from the Royal Danish Academy of Music and the Opera Academy. Excellent atmospheric culture pick.\nCost: 195 DKK.\nTickets required.\nOfficial: https://www.goldendays.dk/
+URL:https://www.goldendays.dk/
+LOCATION:Cisternerne\, Søndermarken\, Frederiksberg
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:k7-week-2026@copenhagen-event-radar
+DTSTAMP:20260827T092000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260914
+SUMMARY:⭐🆓 K7 Culture Week 2026
+DESCRIPTION:Free admission to 250+ museums and exhibition venues for people up to age 27. Theatre and classical-music tickets can be 40 DKK for ages 18-25. Individual Copenhagen picks are added separately.\nRegistration: download the free K7 card.\nOfficial: https://www.k7k7.dk/
+URL:https://www.k7k7.dk/
+LOCATION:Copenhagen and Denmark
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:k7-dkdm-symphony-2026@copenhagen-event-radar
+DTSTAMP:20260827T092000Z
+DTSTART;TZID=Europe/Copenhagen:20260908T170000
+SUMMARY:🎼 K7 Pick — DKDM Symphony Orchestra
+DESCRIPTION:Wagner's Siegfried Idyll\, Milhaud's Le boeuf sur le toit and a new student work\, introduced by Giordano Bellincampi.\nK7 event: check current ticket/entry conditions.\nOfficial: https://www.k7k7.dk/
+URL:https://www.k7k7.dk/
+LOCATION:Konservatoriets Koncertsal\, Frederiksberg
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:golden-days-art-imperialism-2026@copenhagen-event-radar
+DTSTAMP:20260827T092000Z
+DTSTART;TZID=Europe/Copenhagen:20260909T170000
+SUMMARY:⭐🎟️ Golden Days — Kunst i imperialismens skygge
+DESCRIPTION:Conversation on Orientalism\, imperialism and how art reinforces or challenges stereotypes. Strong art + politics + society fit.\nCost: 50 DKK.\nTickets required.\nOfficial: https://www.goldendays.dk/
+URL:https://www.goldendays.dk/
+LOCATION:Davids Samling\, Kronprinsessegade 30-32\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:golden-days-verdenstraumer-2026@copenhagen-event-radar
+DTSTAMP:20260827T092000Z
+DTSTART;TZID=Europe/Copenhagen:20260910T163000
+DTEND;TZID=Europe/Copenhagen:20260910T171500
+SUMMARY:⭐🆓 Golden Days — Verdenstraumer: Udenrigspolitikkens skurke
+DESCRIPTION:Foreign-policy discussion on Russia\, North Korea and Iran within the festival theme of villains\, power and enemy images. Strong politics/society fit.\nCost: free.\nOfficial: https://www.goldendays.dk/
+URL:https://www.goldendays.dk/
+LOCATION:Politikens Boghal\, Rådhuspladsen\, Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dine-design-2026-09-10@copenhagen-event-radar
+DTSTAMP:20260827T092000Z
+DTSTART;TZID=Europe/Copenhagen:20260910T180000
+DTEND;TZID=Europe/Copenhagen:20260910T200000
+SUMMARY:⭐🎟️ DINE & DESIGN — Designmuseum Danmark
+DESCRIPTION:Community dinner at long tables with a short story\, quiz or talk about a Danish design classic. Strong recurring social + design format.\nCost: 185 DKK adult. Museum admission not included.\nTickets recommended/required\; non-refundable. Arrive from 17:30.\nOfficial: https://designmuseum.dk/en/event/dine-design-community-dining-at-the-design-museum-10-09/
+URL:https://designmuseum.dk/en/event/dine-design-community-dining-at-the-design-museum-10-09/
+LOCATION:Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:k7-stop-making-sense-2026@copenhagen-event-radar
+DTSTAMP:20260827T092000Z
+DTSTART;TZID=Europe/Copenhagen:20260911T190000
+SUMMARY:🎬💃 K7 Pick — Stop Making Sense + bar/disco
+DESCRIPTION:Talking Heads' classic concert film followed by a bar and disco. Good film + music + social-night crossover.\nK7 event: verify current ticket price/eligibility when booking.\nOfficial: https://www.k7k7.dk/
+URL:https://www.k7k7.dk/
+LOCATION:Cinemateket\, Gothersgade 55\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lille-bogdag-2026@copenhagen-event-radar
+DTSTAMP:20260827T092000Z
+DTSTART;TZID=Europe/Copenhagen:20260912T100000
+DTEND;TZID=Europe/Copenhagen:20260913T180000
+SUMMARY:📚🆓 Lille Bogdag 2026 — Designmuseum Danmark
+DESCRIPTION:Literature festival for small quality-focused publishers with readings\, conversations\, music\, workshops and performances. Strong book/culture discovery pick.\nCost: free. Museum exhibitions require separate admission.\nOfficial: https://designmuseum.dk/event/lille-bogdag-2026/
+URL:https://designmuseum.dk/event/lille-bogdag-2026/
+LOCATION:Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:golden-days-gauguin-2026@copenhagen-event-radar
+DTSTAMP:20260827T092000Z
+DTSTART;TZID=Europe/Copenhagen:20260917T170000
+DTEND;TZID=Europe/Copenhagen:20260917T180000
+SUMMARY:⭐🎟️ Golden Days — Hvad nu\, Gauguin?
+DESCRIPTION:Interdisciplinary discussion about admired art and colonial-era power structures using Gauguin as the case. Excellent art + ethics + society pick.\nCost: 200 DKK incl. admission\; students/young people 155 DKK.\nTickets required.\nOfficial: https://www.goldendays.dk/
+URL:https://www.goldendays.dk/
+LOCATION:Ordrupgaard\, Vilvordevej 110\, 2920 Ordrup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:henrik-vibskov-exhibition-2026@copenhagen-event-radar
+DTSTAMP:20260827T092000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20270222
+SUMMARY:🎨 Henrik Vibskov: The Exhibition
+DESCRIPTION:Major immersive Designmuseum exhibition spanning fashion\, music\, scenography\, costumes and installations. Strong long-horizon design/fashion pick.\nAdmission: museum ticket/annual pass.\nOfficial: https://designmuseum.dk/en/exhibition/henrik-vibskov/
+URL:https://designmuseum.dk/en/exhibition/henrik-vibskov/
+LOCATION:Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dine-design-2026-09-24@copenhagen-event-radar
+DTSTAMP:20260827T092000Z
+DTSTART;TZID=Europe/Copenhagen:20260924T180000
+DTEND;TZID=Europe/Copenhagen:20260924T200000
+SUMMARY:⭐🎟️ DINE & DESIGN — Designmuseum Danmark
+DESCRIPTION:Recurring community dinner around Danish design history. Strong social + design format.\nCost: 185 DKK adult. Museum admission not included.\nTickets recommended/required\; non-refundable. Arrive from 17:30.\nOfficial: https://designmuseum.dk/en/event/dine-design-community-dining-at-the-design-museum-24-09/
+URL:https://designmuseum.dk/en/event/dine-design-community-dining-at-the-design-museum-24-09/
+LOCATION:Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:morgenformat-design-2026@copenhagen-event-radar
+DTSTAMP:20260827T092000Z
+DTSTART;TZID=Europe/Copenhagen:20260929T083000
+DTEND;TZID=Europe/Copenhagen:20260929T093000
+SUMMARY:⭐🆓 MORGENFORMAT — Når design bliver til betydning
+DESCRIPTION:Bo Linnemann of Kontrapunkt and Anders Thulin of the Royal Danish Academy discuss graphic design's role in how we understand\, remember and feel — including branding\, trust\, authority and manipulation. Filter coffee included.\nCost: free.\nRegistration required\; limited places. Doors/coffee bar 08:00.\nOfficial: https://designmuseum.dk/event/morgenformat-naar-design-bliver-til-betydning/
+URL:https://designmuseum.dk/event/morgenformat-naar-design-bliver-til-betydning/
+LOCATION:FORMAT at Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dine-design-2026-10-01@copenhagen-event-radar
+DTSTAMP:20260827T092000Z
+DTSTART;TZID=Europe/Copenhagen:20261001T180000
+DTEND;TZID=Europe/Copenhagen:20261001T200000
+SUMMARY:🎟️ DINE & DESIGN — Designmuseum Danmark
+DESCRIPTION:Recurring community dinner around Danish design history.\nCost: 185 DKK adult. Museum admission not included.\nTickets recommended/required\; non-refundable. Arrive from 17:30.\nOfficial: https://designmuseum.dk/event/faellesspisning-paa-designmuseet-01-10/
+URL:https://designmuseum.dk/event/faellesspisning-paa-designmuseet-01-10/
+LOCATION:Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dining-week-october-2026@copenhagen-event-radar
+DTSTAMP:20260827T092000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261019
+SUMMARY:🍽️🎟️ Dining Week — October 2026
+DESCRIPTION:Scandinavia's largest restaurant festival. Selected restaurants offer fixed-price menus over 10 days. Radar will add especially good Copenhagen restaurant picks when the programme/tickets are released.\nDates: 9-18 October 2026.\nTickets: advance booking via Dining Week\; popular tables can go quickly.\nOfficial: https://diningweek.dk/
+URL:https://diningweek.dk/
+LOCATION:Copenhagen and Denmark — multiple restaurants
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dine-design-2026-10-29@copenhagen-event-radar
+DTSTAMP:20260827T092000Z
+DTSTART;TZID=Europe/Copenhagen:20261029T180000
+DTEND;TZID=Europe/Copenhagen:20261029T200000
+SUMMARY:🎟️ DINE & DESIGN — Designmuseum Danmark
+DESCRIPTION:Recurring community dinner around Danish design history.\nCost: 185 DKK adult. Museum admission not included.\nTickets recommended/required\; non-refundable. Arrive from 17:30.\nOfficial: https://designmuseum.dk/event/faellesspisning-paa-designmuseet-29-10/
+URL:https://designmuseum.dk/event/faellesspisning-paa-designmuseet-29-10/
+LOCATION:Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dine-design-2026-11-12@copenhagen-event-radar
+DTSTAMP:20260827T092000Z
+DTSTART;TZID=Europe/Copenhagen:20261112T180000
+DTEND;TZID=Europe/Copenhagen:20261112T200000
+SUMMARY:🎟️ DINE & DESIGN — Designmuseum Danmark
+DESCRIPTION:Recurring community dinner around Danish design history.\nCost: 185 DKK adult. Museum admission not included.\nTickets recommended/required\; non-refundable. Arrive from 17:30.\nOfficial: https://designmuseum.dk/en/event/dine-design-community-dining-at-the-design-museum-12-11/
+URL:https://designmuseum.dk/en/event/dine-design-community-dining-at-the-design-museum-12-11/
+LOCATION:Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dine-design-2026-11-26@copenhagen-event-radar
+DTSTAMP:20260827T092000Z
+DTSTART;TZID=Europe/Copenhagen:20261126T180000
+DTEND;TZID=Europe/Copenhagen:20261126T200000
+SUMMARY:🎟️🎄 DINE & DESIGN — Designmuseum Danmark
+DESCRIPTION:Recurring community dinner around Danish design history\; this late-November menu includes a festive Danish rice pudding dessert.\nCost: 185 DKK adult. Museum admission not included.\nTickets recommended/required\; non-refundable. Arrive from 17:30.\nOfficial: https://designmuseum.dk/event/faellesspisning-paa-designmuseet-26-11/
+URL:https://designmuseum.dk/event/faellesspisning-paa-designmuseet-26-11/
+LOCATION:Designmuseum Danmark\, Bredgade 68\, 1260 Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:allt-pumpehuset-2026@copenhagen-event-radar
+DTSTAMP:20260827T092000Z
+DTSTART;TZID=Europe/Copenhagen:20261201T190000
+SUMMARY:🤘🎟️ Allt + Avralize + Bite Down — Pumpehuset
+DESCRIPTION:Swedish progressive metalcore band Allt with Avralize and Bite Down. Doors 19:00\; show 20:00. Strong metalcore pick.\nCost: 265 DKK incl. fee.\nTickets required.\nOfficial: https://pumpehuset.dk/koncerter/allt/
+URL:https://pumpehuset.dk/koncerter/allt/
+LOCATION:Pumpehuset\, Studiestræde 52\, 1554 Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
