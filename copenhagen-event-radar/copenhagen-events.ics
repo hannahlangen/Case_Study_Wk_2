@@ -101,6 +101,17 @@ LOCATION:Kulturhuset Islands Brygge\, Islands Brygge 18\, 2300 Copenhagen S
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:wine-view-nikolaj-2026-09-03@copenhagen-event-radar
+DTSTAMP:20260901T065320Z
+DTSTART;TZID=Europe/Copenhagen:20260903T170000
+DTEND;TZID=Europe/Copenhagen:20260903T183000
+SUMMARY:⭐🍷 Wine with a View — Nikolaj Kunsthal x Pompette
+DESCRIPTION:Intimate tower wine tasting with five natural wines\, conversation and Copenhagen views; 450 DKK incl museum admission. Limited capacity and high demand.
+URL:https://nikolajkunsthal.kk.dk/en/wine-with-a-view-ekstra-dates
+LOCATION:Nikolaj Kunsthal\, Nikolaj Plads 10\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:golden-days-monster-2026@copenhagen-event-radar
 DTSTAMP:20260828T064500Z
 DTSTART;VALUE=DATE:20260904
@@ -174,6 +185,17 @@ SUMMARY:⭐🎟️ Wholesome CPH — Late-Night Sculpt & Spritzes
 DESCRIPTION:Sculpt class followed by a social hour with spritzes\, snacks and music\; 229 DKK.
 URL:https://www.wholesomecph.dk/events/late-night-sculpt-spritzes
 LOCATION:Some Good Moves\, Vesterbro\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mayas-women-sauna-2026-09-09@copenhagen-event-radar
+DTSTAMP:20260901T065320Z
+DTSTART;TZID=Europe/Copenhagen:20260909T200000
+DTEND;TZID=Europe/Copenhagen:20260909T211500
+SUMMARY:⭐🧖‍♀️ MAYAS x Hot'n'Cold — Women Saunagus
+DESCRIPTION:Women-only social sauna with three guided rounds\, refreshments\, goodie bag and time to socialise; 200 DKK.
+URL:https://mayas.co/da-no/pages/community-events
+LOCATION:Hot'n'Cold\, Sundkrogskaj 19\, Copenhagen Ø
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -362,6 +384,17 @@ LOCATION:Designmuseum Danmark\, Bredgade 68\, Copenhagen K
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:fr-salon-edouard-louis-2026-09-30@copenhagen-event-radar
+DTSTAMP:20260901T065320Z
+DTSTART;TZID=Europe/Copenhagen:20260930T130000
+DTEND;TZID=Europe/Copenhagen:20260930T140000
+SUMMARY:🇫🇷📚 Les Salons du mercredi — Édouard Louis
+DESCRIPTION:French cultural salon in accessible A2-level French; 125 DKK.
+URL:https://institutfrancais.dk/da/arrangementer/foredrag-paa-fransk-2026-0
+LOCATION:Institut français du Danemark\, Rolighedsvej 37\, Frederiksberg
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:morgenformat-design-2026@copenhagen-event-radar
 DTSTAMP:20260828T064500Z
 DTSTART;TZID=Europe/Copenhagen:20260929T083000
@@ -460,6 +493,38 @@ LOCATION:Copenhagen and Denmark
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:humanitys-last-breath-2026-10-18@copenhagen-event-radar
+DTSTAMP:20260901T065320Z
+DTSTART;TZID=Europe/Copenhagen:20261018T180000
+SUMMARY:🤘🔥 Humanity's Last Breath + Vildhjarta + Enterprise Earth + Karmanjakah
+DESCRIPTION:Heavy modern deathcore/progressive-metal bill. Doors 18:00\, show 18:45; 305 DKK incl fee.
+URL:https://pumpehuset.dk/koncerter/humanitys-last-breath/
+LOCATION:Pumpehuset\, Studiestræde 52\, Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fr-salon-caillebotte-2026-10-21@copenhagen-event-radar
+DTSTAMP:20260901T065320Z
+DTSTART;TZID=Europe/Copenhagen:20261021T130000
+DTEND;TZID=Europe/Copenhagen:20261021T140000
+SUMMARY:🇫🇷🎨 Les Salons du mercredi — Gustave Caillebotte
+DESCRIPTION:French art salon in accessible A2-level French; 125 DKK.
+URL:https://institutfrancais.dk/da/arrangementer/foredrag-paa-fransk-2026-0
+LOCATION:Institut français du Danemark\, Rolighedsvej 37\, Frederiksberg
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cc-creative-writing-2026-10-28@copenhagen-event-radar
+DTSTAMP:20260901T065320Z
+DTSTART;TZID=Europe/Copenhagen:20261028T170000
+DTEND;TZID=Europe/Copenhagen:20261028T190000
+SUMMARY:⭐✍️ CC Skills — How Do I Do Creative Writing? (6-session course starts)
+DESCRIPTION:Six-session creative-writing course for adults at all levels\; max 20 participants\; English & Danish. 1\,650 DKK adult / 1\,440 DKK under 30. Runs through 2 Dec.
+URL:https://copenhagencontemporary.org/en/event/cc-skills-how-do-i-do-creative-writing-3/
+LOCATION:Copenhagen Contemporary\, Refshalevej 173A\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:meyers-korean-streetfood-2026-10-29@copenhagen-event-radar
 DTSTAMP:20260828T064500Z
 DTSTART;TZID=Europe/Copenhagen:20261029T170000
@@ -525,6 +590,17 @@ LOCATION:Tivoli Gardens\, Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:fr-salon-cezanne-2026-11-18@copenhagen-event-radar
+DTSTAMP:20260901T065320Z
+DTSTART;TZID=Europe/Copenhagen:20261118T130000
+DTEND;TZID=Europe/Copenhagen:20261118T140000
+SUMMARY:🇫🇷🎨 Les Salons du mercredi — Paul Cézanne
+DESCRIPTION:French art salon in accessible A2-level French; 125 DKK.
+URL:https://institutfrancais.dk/da/arrangementer/foredrag-paa-fransk-2026-0
+LOCATION:Institut français du Danemark\, Rolighedsvej 37\, Frederiksberg
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:storynights-2026-11-24@copenhagen-event-radar
 DTSTAMP:20260828T064500Z
 DTSTART;TZID=Europe/Copenhagen:20261124T180000
@@ -574,6 +650,17 @@ SUMMARY:🤘🎟️ Allt + Avralize + Bite Down — Pumpehuset
 DESCRIPTION:Progressive metalcore\; doors 19:00\, show 20:00\; 265 DKK.
 URL:https://pumpehuset.dk/koncerter/allt/
 LOCATION:Pumpehuset\, Studiestræde 52\, Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fr-salon-mere-2026-12-09@copenhagen-event-radar
+DTSTAMP:20260901T065320Z
+DTSTART;TZID=Europe/Copenhagen:20261209T130000
+DTEND;TZID=Europe/Copenhagen:20261209T140000
+SUMMARY:🇫🇷📚 Les Salons du mercredi — L'art d'être mère
+DESCRIPTION:French cultural salon in accessible A2-level French; 125 DKK.
+URL:https://institutfrancais.dk/da/arrangementer/foredrag-paa-fransk-2026-0
+LOCATION:Institut français du Danemark\, Rolighedsvej 37\, Frederiksberg
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
