@@ -815,4 +815,103 @@ URL:https://copenhell.dk/en/front-page/
 LOCATION:Refshaleøen\, Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:ysl-magasin-beauty-2026-09-29@copenhagen-event-radar
+DTSTAMP:20260929T060200Z
+DTSTART;TZID=Europe/Copenhagen:20260929T170000
+DTEND;TZID=Europe/Copenhagen:20260929T183000
+SUMMARY:💄⭐ YSL — Chosen by Beauty Lovers
+DESCRIPTION:YSL beauty session during Magasin's Chosen by Beauty Lovers programme for Goodie members.
+URL:https://service.magasin.dk/event-detail/lr-de-nominerede-at-kende-894
+LOCATION:Magasin Kgs. Nytorv, Kongens Nytorv 13, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sjaellandsgade-women-saunagus-autumn-2026@copenhagen-event-radar
+DTSTAMP:20260929T060200Z
+DTSTART;TZID=Europe/Copenhagen:20260929T180000
+DTEND;TZID=Europe/Copenhagen:20260929T190000
+RDATE;TZID=Europe/Copenhagen:20261006T180000,20261013T180000,20261020T180000,20261027T180000
+SUMMARY:🧖‍♀️🆓 Women-only Sauna Gus — Sjællandsgade Bad
+DESCRIPTION:Recurring women-only aromatic sauna gus led by volunteer sauna masters at the historic bathhouse. Free.
+URL:https://hvaderpaa.dk/en/event/14493/
+LOCATION:Sjællandsgade Bad, Copenhagen N
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dac-cities-for-people-opening-2026@copenhagen-event-radar
+DTSTAMP:20260929T060200Z
+DTSTART;TZID=Europe/Copenhagen:20261005T170000
+DTEND;TZID=Europe/Copenhagen:20261005T210000
+SUMMARY:⭐🆓 Cities for People — Free Exhibition Opening
+DESCRIPTION:World Architecture Day opening with speeches, city-life activities, AfterDAC talk and dragshow, DJ and rooftop café. Free admission all day.
+URL:https://dac.dk/en/events/free-exhibition-opening-cities-for-people
+LOCATION:Danish Architecture Center, Bryghuspladsen 10, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:culture-night-copenhagen-2026@copenhagen-event-radar
+DTSTAMP:20260929T060200Z
+DTSTART;TZID=Europe/Copenhagen:20261009T180000
+DTEND;TZID=Europe/Copenhagen:20261010T000000
+SUMMARY:⭐🌙 Culture Night Copenhagen 2026
+DESCRIPTION:One-night citywide culture programme with 200+ participating venues. Advance booking for limited-capacity events opens 1 Oct at 12:00. Culture Pass 125 DKK.
+URL:https://kulturnatten.dk/en/
+LOCATION:Copenhagen & Frederiksberg
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dance-sauna-roert-2026-10-23@copenhagen-event-radar
+DTSTAMP:20260929T060200Z
+DTSTART;TZID=Europe/Copenhagen:20261023T190000
+DTEND;TZID=Europe/Copenhagen:20261023T230000
+SUMMARY:⭐🧖 Dance x Sauna — Rört
+DESCRIPTION:Progressive-house movement session followed by optional guided sauna gus. Dance + Sauna tickets have limited capacity.
+URL:https://www.electroniccph.com/events/dance-x-sauna-e-ad0ca0c5
+LOCATION:Rört, Thoravej 35, Copenhagen NV
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wholesome-sauna-2026-10-25@copenhagen-event-radar
+DTSTAMP:20260929T060200Z
+DTSTART;TZID=Europe/Copenhagen:20261025T150000
+DTEND;TZID=Europe/Copenhagen:20261025T173000
+SUMMARY:⭐🧖 Wholesome CPH — Sauna Gus & Social Chai
+DESCRIPTION:Pre-sauna social drink followed by a 75-minute guided sauna gus, wellness facilities and optional cold dips. Limited spots.
+URL:https://www.wholesomecph.dk/events/sauna-gus-social-chai-85p6n-wffbx
+LOCATION:25hours Hotel Indre By — Wellness Zone, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wholesome-book-wine-verity-2026-10-27@copenhagen-event-radar
+DTSTAMP:20260929T060200Z
+DTSTART;TZID=Europe/Copenhagen:20261027T183000
+DTEND;TZID=Europe/Copenhagen:20261027T210000
+SUMMARY:⭐📚🍷 Wholesome Book & Wine Club — Verity
+DESCRIPTION:Recurring book-and-wine club discussing Colleen Hoover's Verity. Free, no sign-up required. Location to be announced.
+URL:https://www.wholesomecph.dk/events
+LOCATION:Copenhagen — location TBA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wholesome-book-wine-acotar6-2026-11-17@copenhagen-event-radar
+DTSTAMP:20260929T060200Z
+DTSTART;TZID=Europe/Copenhagen:20261117T183000
+DTEND;TZID=Europe/Copenhagen:20261117T210000
+SUMMARY:📚🍷 Wholesome Book & Wine Club — ACOTAR 6
+DESCRIPTION:Follow-on meeting of the revived recurring book club. Free, no sign-up required. Location to be announced.
+URL:https://www.wholesomecph.dk/events
+LOCATION:Copenhagen — location TBA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:signs-swarm-pumpehuset-2027-02-07@copenhagen-event-radar
+DTSTAMP:20260929T060200Z
+DTSTART;TZID=Europe/Copenhagen:20270207T180000
+SUMMARY:🤘🔥 Signs Of The Swarm + ten56. + Oceans Ate Alaska + Face Yourself
+DESCRIPTION:Modern deathcore/metalcore bill. Doors 18:00, show 19:00. 265 DKK incl fee.
+URL:https://pumpehuset.dk/koncerter/signs-of-the-swarm/
+LOCATION:Pumpehuset, Studiestræde 52, Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
