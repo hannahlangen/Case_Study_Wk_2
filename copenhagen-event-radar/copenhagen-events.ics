@@ -914,4 +914,26 @@ URL:https://pumpehuset.dk/koncerter/signs-of-the-swarm/
 LOCATION:Pumpehuset, Studiestræde 52, Copenhagen V
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:banegaarden-longtable-culture-nature-2026-10-09@copenhagen-event-radar
+DTSTAMP:20261004T060400Z
+DTSTART;TZID=Europe/Copenhagen:20261009T164500
+DTEND;TZID=Europe/Copenhagen:20261009T210000
+SUMMARY:⭐🍽️🌿 BaneGaarden — Long-Table Dinner with Culture & Nature
+DESCRIPTION:Seasonal communal long-table dinner combining food\, culture and nature at BaneGaarden. Tickets from 195 DKK.
+URL:https://events.banegaarden.com/en
+LOCATION:BaneGaarden\, Otto Busses Vej 45\, 2450 Copenhagen SV
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tivoli-monsters-night-out-2026-10-24@copenhagen-event-radar
+DTSTAMP:20261004T060400Z
+DTSTART;TZID=Europe/Copenhagen:20261024T180000
+DTEND;TZID=Europe/Copenhagen:20261024T220000
+SUMMARY:🎃⭐ Monsters Night Out — Tivoli
+DESCRIPTION:Halloween monster parade through Tivoli followed by monster appearances on selected rides through 22:00. Free with Tivoli admission.
+URL:https://www.tivoli.dk/en/programme/events/monsters-night-out
+LOCATION:Tivoli Gardens\, Vesterbrogade 3\, Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
