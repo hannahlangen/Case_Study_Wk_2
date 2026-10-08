@@ -876,8 +876,8 @@ UID:wholesome-sauna-2026-10-25@copenhagen-event-radar
 DTSTAMP:20260929T060200Z
 DTSTART;TZID=Europe/Copenhagen:20261025T150000
 DTEND;TZID=Europe/Copenhagen:20261025T173000
-SUMMARY:⭐🧖 Wholesome CPH — Sauna Gus & Social Chai
-DESCRIPTION:Pre-sauna social drink followed by a 75-minute guided sauna gus, wellness facilities and optional cold dips. Limited spots.
+SUMMARY:⭐🧖 Wholesome CPH — Sauna Gus & Social Hot Cocoa
+DESCRIPTION:Pre-sauna social hot cocoa followed by a 75-minute guided sauna gus, wellness facilities and optional cold dips. Limited spots.
 URL:https://www.wholesomecph.dk/events/sauna-gus-social-chai-85p6n-wffbx
 LOCATION:25hours Hotel Indre By — Wellness Zone, Copenhagen K
 STATUS:CONFIRMED
@@ -888,9 +888,9 @@ DTSTAMP:20260929T060200Z
 DTSTART;TZID=Europe/Copenhagen:20261027T183000
 DTEND;TZID=Europe/Copenhagen:20261027T210000
 SUMMARY:⭐📚🍷 Wholesome Book & Wine Club — Verity
-DESCRIPTION:Recurring book-and-wine club discussing Colleen Hoover's Verity. Free, no sign-up required. Location to be announced.
+DESCRIPTION:Recurring book-and-wine club discussing Colleen Hoover's Verity. Free, no sign-up required. Location confirmed: Le Filou in the city centre.
 URL:https://www.wholesomecph.dk/events
-LOCATION:Copenhagen — location TBA
+LOCATION:Le Filou, Copenhagen city centre
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -899,9 +899,9 @@ DTSTAMP:20260929T060200Z
 DTSTART;TZID=Europe/Copenhagen:20261117T183000
 DTEND;TZID=Europe/Copenhagen:20261117T210000
 SUMMARY:📚🍷 Wholesome Book & Wine Club — ACOTAR 6
-DESCRIPTION:Follow-on meeting of the revived recurring book club. Free, no sign-up required. Location to be announced.
+DESCRIPTION:Follow-on meeting of the revived recurring book club. Free, no sign-up required. Location confirmed: Le Filou in the city centre.
 URL:https://www.wholesomecph.dk/events
-LOCATION:Copenhagen — location TBA
+LOCATION:Le Filou, Copenhagen city centre
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -934,6 +934,105 @@ SUMMARY:🎃⭐ Monsters Night Out — Tivoli
 DESCRIPTION:Halloween monster parade through Tivoli followed by monster appearances on selected rides through 22:00. Free with Tivoli admission.
 URL:https://www.tivoli.dk/en/programme/events/monsters-night-out
 LOCATION:Tivoli Gardens\, Vesterbrogade 3\, Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:heat-kvindegus-2026-10-21@copenhagen-event-radar
+DTSTAMP:20261008T060530Z
+DTSTART;TZID=Europe/Copenhagen:20261021T200000
+DTEND;TZID=Europe/Copenhagen:20261021T213000
+SUMMARY:Women-only Kvindegus — Heat Studio
+DESCRIPTION:Monthly women-only sauna with Lilja\, four guided rounds\, face/body peeling\, snacks and conversation. Max 12\; 295 DKK. Registration by 21 Oct.
+URL:https://heatstudio.dk/en/events/kvindegus1
+LOCATION:Heat Studio\, Brønsholmvej 26\, Kokkedal
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:designmuseum-morgenformat-dda-2026-10-27@copenhagen-event-radar
+DTSTAMP:20261008T060530Z
+DTSTART;TZID=Europe/Copenhagen:20261027T083000
+DTEND;TZID=Europe/Copenhagen:20261027T093000
+SUMMARY:MorgenFormat — Danish Design Award
+DESCRIPTION:Free morning discussion of design award finalists with Anders Thulin and Lone Feifer. Advance ticket required\; limited capacity. Café opens 08:00.
+URL:https://designmuseum.dk/event/morgenformat-danish-design-award-2/
+LOCATION:Designmuseum Danmark\, Bredgade 68\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bogforum-2026@copenhagen-event-radar
+DTSTAMP:20261008T060530Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+SUMMARY:Bogforum 2026 — Literary Festival
+DESCRIPTION:Three-day literary festival. Programme and ticket sales now live\; curate specific author talks rather than generic fair browsing.
+URL:https://bogforum.dk/en
+LOCATION:Bella Center\, Copenhagen S
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bord11-supper-club-09-2026-10-31@copenhagen-event-radar
+DTSTAMP:20261008T060530Z
+DTSTART;TZID=Europe/Copenhagen:20261031T193000
+DTEND;TZID=Europe/Copenhagen:20261031T213000
+SUMMARY:BORÐ 11 — Supper Club 09
+DESCRIPTION:Small shared-table seasonal supper with secret menu. 290 DKK\; specify vegetarian requirements when booking. Recurring supper-club concept.
+URL:https://www.bord11.com/event-details/supper-club-09
+LOCATION:BORÐ 11\, Ny Carlsberg Vej 11\, Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:designmuseum-visitkort-aesker-2026-11-11@copenhagen-event-radar
+DTSTAMP:20261008T060530Z
+DTSTART;TZID=Europe/Copenhagen:20261111T163000
+DTEND;TZID=Europe/Copenhagen:20261111T173000
+SUMMARY:Designmuseum — Visiting-Card Cases Talk
+DESCRIPTION:Wladimir Herman presents a collection of 300 historical visiting-card cases\, exploring craftsmanship and social rituals. 50 DKK\, free for museum members\; limited seats.
+URL:https://designmuseum.dk/event/foredrag-vilde-visitkortaesker/
+LOCATION:Designmuseum Danmark\, Bredgade 68\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wholesome-sauna-2026-11-15@copenhagen-event-radar
+DTSTAMP:20261008T060530Z
+DTSTART;TZID=Europe/Copenhagen:20261115T150000
+DTEND;TZID=Europe/Copenhagen:20261115T173000
+SUMMARY:Wholesome — Sauna Gus & Hot Cocoa
+DESCRIPTION:Monthly social sauna: 15:00 cocoa and conversation\, 16:15 guided gus with Dicte\, optional cold dips\, wellness access and snacks. Ticket required.
+URL:https://www.wholesomecph.dk/events/sauna-gus-hot-cocoa--ltaew
+LOCATION:25hours Hotel Indre By\, Wellness Zone\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wholesome-sauna-2026-12-13@copenhagen-event-radar
+DTSTAMP:20261008T060530Z
+DTSTART;TZID=Europe/Copenhagen:20261213T150000
+DTEND;TZID=Europe/Copenhagen:20261213T173000
+SUMMARY:Wholesome — Christmas Sauna Gus
+DESCRIPTION:Confirmed Christmas edition of social sauna with spiced oils\, carol round and cocoa. Booking link not yet released: monitor ticket drop.
+URL:https://www.wholesomecph.dk/events/dec-gus-le4gt
+LOCATION:25hours Hotel Indre By\, Wellness Zone\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:black-dahlia-murder-2027-01-20@copenhagen-event-radar
+DTSTAMP:20261008T060530Z
+DTSTART;TZID=Europe/Copenhagen:20270120T190000
+SUMMARY:The Black Dahlia Murder — Pumpehuset
+DESCRIPTION:Melodic death metal. Doors 19:00\, show 19:30\; 295 DKK incl fee.
+URL:https://pumpehuset.dk/en/koncerter/the-black-dahlia-murder/
+LOCATION:Pumpehuset\, Studiestræde 52\, Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:korean-beginner-1-2-2027-spring@copenhagen-event-radar
+DTSTAMP:20261008T060530Z
+DTSTART;TZID=Europe/Copenhagen:20270114T190000
+DTEND;TZID=Europe/Copenhagen:20270114T204000
+RDATE;TZID=Europe/Copenhagen:20270121T190000,20270128T190000,20270204T190000,20270211T190000,20270225T190000,20270304T190000,20270311T190000,20270318T190000,20270401T190000,20270408T190000,20270415T190000,20270422T190000,20270429T190000,20270513T190000,20270520T190000,20270527T190000
+SUMMARY:Korean Beginner 1-2 — Spring 2027
+DESCRIPTION:17 confirmed Thursday classes through 27 May (specific RDATEs exclude school breaks). Sejong Korean 1A units 5–10. 2050 DKK. Registration open. Beginner 1-1 or equivalent prerequisite.
+URL:https://www.koreanskkultur.dk/korean-classes/?category=&course=70973
+LOCATION:Nyboder Skole\, Øster Voldgade 15\, room 210\, Copenhagen K
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
