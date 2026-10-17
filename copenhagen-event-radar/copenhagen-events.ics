@@ -832,9 +832,9 @@ DTSTAMP:20260929T060200Z
 DTSTART;TZID=Europe/Copenhagen:20260929T180000
 DTEND;TZID=Europe/Copenhagen:20260929T190000
 RDATE;TZID=Europe/Copenhagen:20261006T180000,20261013T180000,20261020T180000,20261027T180000
-SUMMARY:🧖‍♀️🆓 Women-only Sauna Gus — Sjællandsgade Bad
-DESCRIPTION:Recurring women-only aromatic sauna gus led by volunteer sauna masters at the historic bathhouse. Free.
-URL:https://hvaderpaa.dk/en/event/14493/
+SUMMARY:🧖‍♀️ Women-only Sauna Gus — Sjællandsgade Bad
+DESCRIPTION:Recurring women-only aromatic sauna gus at the historic bathhouse. Tickets 150 DKK; advance booking required.
+URL:https://www.sjaellandsgadebad.dk/aabningstider
 LOCATION:Sjællandsgade Bad, Copenhagen N
 STATUS:CONFIRMED
 END:VEVENT
@@ -1033,6 +1033,204 @@ SUMMARY:Korean Beginner 1-2 — Spring 2027
 DESCRIPTION:17 confirmed Thursday classes through 27 May (specific RDATEs exclude school breaks). Sejong Korean 1A units 5–10. 2050 DKK. Registration open. Beginner 1-1 or equivalent prerequisite.
 URL:https://www.koreanskkultur.dk/korean-classes/?category=&course=70973
 LOCATION:Nyboder Skole\, Øster Voldgade 15\, room 210\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fof-light-art-walk-20270130@copenhagen-event-radar
+DTSTAMP:20261017T065500Z
+DTSTART;TZID=Europe/Copenhagen:20270130T190000
+DTEND;TZID=Europe/Copenhagen:20270130T210000
+SUMMARY:FOF — Copenhagen Light Festival Guided Art Walk
+DESCRIPTION:Two-hour guided light-art and architecture walk with Frederik Lindskov\; 220 DKK. Meet at Ofelia Plads\; finish Højbro Plads. Advance registration.
+URL:https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/oplev-copenhagen-light-festival
+LOCATION:Ofelia Plads\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fof-light-art-walk-20270202@copenhagen-event-radar
+DTSTAMP:20261017T065500Z
+DTSTART;TZID=Europe/Copenhagen:20270202T190000
+DTEND;TZID=Europe/Copenhagen:20270202T210000
+SUMMARY:FOF — Copenhagen Light Festival Guided Art Walk
+DESCRIPTION:Two-hour guided light-art and architecture walk with Frederik Lindskov\; 220 DKK. Meet at Ofelia Plads\; finish Højbro Plads. Advance registration.
+URL:https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/oplev-copenhagen-light-festival
+LOCATION:Ofelia Plads\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fof-light-art-walk-20270204@copenhagen-event-radar
+DTSTAMP:20261017T065500Z
+DTSTART;TZID=Europe/Copenhagen:20270204T190000
+DTEND;TZID=Europe/Copenhagen:20270204T210000
+SUMMARY:FOF — Copenhagen Light Festival Guided Art Walk
+DESCRIPTION:Two-hour guided light-art and architecture walk with Frederik Lindskov\; 220 DKK. Meet at Ofelia Plads\; finish Højbro Plads. Advance registration.
+URL:https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/oplev-copenhagen-light-festival
+LOCATION:Ofelia Plads\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fof-light-art-walk-20270206@copenhagen-event-radar
+DTSTAMP:20261017T065500Z
+DTSTART;TZID=Europe/Copenhagen:20270206T190000
+DTEND;TZID=Europe/Copenhagen:20270206T210000
+SUMMARY:FOF — Copenhagen Light Festival Guided Art Walk
+DESCRIPTION:Two-hour guided light-art and architecture walk with Frederik Lindskov\; 220 DKK. Meet at Ofelia Plads\; finish Højbro Plads. Advance registration.
+URL:https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/oplev-copenhagen-light-festival
+LOCATION:Ofelia Plads\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fof-light-art-walk-20270207@copenhagen-event-radar
+DTSTAMP:20261017T065500Z
+DTSTART;TZID=Europe/Copenhagen:20270207T190000
+DTEND;TZID=Europe/Copenhagen:20270207T210000
+SUMMARY:FOF — Copenhagen Light Festival Guided Art Walk
+DESCRIPTION:Two-hour guided light-art and architecture walk with Frederik Lindskov\; 220 DKK. Meet at Ofelia Plads\; finish Højbro Plads. Advance registration.
+URL:https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/oplev-copenhagen-light-festival
+LOCATION:Ofelia Plads\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fof-light-art-walk-20270211@copenhagen-event-radar
+DTSTAMP:20261017T065500Z
+DTSTART;TZID=Europe/Copenhagen:20270211T190000
+DTEND;TZID=Europe/Copenhagen:20270211T210000
+SUMMARY:FOF — Copenhagen Light Festival Guided Art Walk
+DESCRIPTION:Two-hour guided light-art and architecture walk with Frederik Lindskov\; 220 DKK. Meet at Ofelia Plads\; finish Højbro Plads. Advance registration.
+URL:https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/oplev-copenhagen-light-festival
+LOCATION:Ofelia Plads\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fof-light-art-walk-20270212@copenhagen-event-radar
+DTSTAMP:20261017T065500Z
+DTSTART;TZID=Europe/Copenhagen:20270212T190000
+DTEND;TZID=Europe/Copenhagen:20270212T210000
+SUMMARY:FOF — Copenhagen Light Festival Guided Art Walk
+DESCRIPTION:Two-hour guided light-art and architecture walk with Frederik Lindskov\; 220 DKK. Meet at Ofelia Plads\; finish Højbro Plads. Advance registration.
+URL:https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/oplev-copenhagen-light-festival
+LOCATION:Ofelia Plads\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:meyers-korean-streetfood-20261124@copenhagen-event-radar
+DTSTAMP:20261017T065500Z
+DTSTART;TZID=Europe/Copenhagen:20261124T170000
+DTEND;TZID=Europe/Copenhagen:20261124T220000
+SUMMARY:Meyers — Korean Street Food with Kala Sung
+DESCRIPTION:English-language hands-on class in small groups (max 16)\; tteokbokki\, mandu\, hoddeok and more. 1445 DKK incl. food and drinks.
+URL:https://meyers.dk/madkurser/korean-street-food-kala-sung
+LOCATION:Meyers Madhus\, Nørrebrogade 52C\, Copenhagen N
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:meyers-kimchi-20261201@copenhagen-event-radar
+DTSTAMP:20261017T065500Z
+DTSTART;TZID=Europe/Copenhagen:20261201T160000
+DTEND;TZID=Europe/Copenhagen:20261201T183000
+SUMMARY:Meyers — Kala's Kimchi Workshop
+DESCRIPTION:English-language hands-on kimchi and fermentation workshop. Two seasonal variations\, snacks and take-home kimchi. 695 DKK.
+URL:https://meyers.dk/madkurser/kalas-kimchi
+LOCATION:Meyers Madhus\, Nørrebrogade 52C\, Copenhagen N
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hvidovre-rokub-info-20270121@copenhagen-event-radar
+DTSTAMP:20261017T065500Z
+DTSTART;TZID=Europe/Copenhagen:20270121T190000
+DTEND;TZID=Europe/Copenhagen:20270121T210000
+SUMMARY:Hvidovre Roklub — 2027 Rowing School Info Evening
+DESCRIPTION:Information evening about boats\, beginner training\, membership and social club life. Contact rowing chief to attend. 2027 beginner school costs 1600 DKK.
+URL:https://www.hvidovreroklub.dk/undervisning-2027---offentlig
+LOCATION:Hvidovre Roklub\, Strandhavevej 218\, Hvidovre
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hvidovre-roklub-ergometer-trial-20270204@copenhagen-event-radar
+DTSTAMP:20261017T065500Z
+DTSTART;TZID=Europe/Copenhagen:20270204T170000
+DTEND;TZID=Europe/Copenhagen:20270204T180000
+SUMMARY:Hvidovre Roklub — Free Rowing-Machine Trial
+DESCRIPTION:Free indoor ergometer trial ahead of 2027 rowing-school intake\; club beginner weekend April 17–18 is compulsory for full course.
+URL:https://www.hvidovreroklub.dk/undervisning-2027---offentlig
+LOCATION:Hvidovre Roklub\, Strandhavevej 218\, Hvidovre
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:vesterbro-silent-book-club-20261031@copenhagen-event-radar
+DTSTAMP:20261017T065500Z
+DTSTART;TZID=Europe/Copenhagen:20261031T110000
+DTEND;TZID=Europe/Copenhagen:20261031T121500
+SUMMARY:Vesterbro Library — Silent Book Club
+DESCRIPTION:Free English-speaking community reading group. Bring any book\; no registration. Opening chat\, 45 minutes reading and optional recommendations.
+URL:https://bibliotek.kk.dk/vesterbro-bibliotek-og-kulturhus/arrangementer/international/silent-book-club
+LOCATION:Vesterbro Bibliotek og Kulturhus\, Lyrskovgade 4\, Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:vesterbro-silent-book-club-20261114@copenhagen-event-radar
+DTSTAMP:20261017T065500Z
+DTSTART;TZID=Europe/Copenhagen:20261114T110000
+DTEND;TZID=Europe/Copenhagen:20261114T121500
+SUMMARY:Vesterbro Library — Silent Book Club
+DESCRIPTION:Free English-speaking community reading group. Bring any book\; no registration. Opening chat\, 45 minutes reading and optional recommendations.
+URL:https://bibliotek.kk.dk/vesterbro-bibliotek-og-kulturhus/arrangementer/international/silent-book-club
+LOCATION:Vesterbro Bibliotek og Kulturhus\, Lyrskovgade 4\, Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:vesterbro-silent-book-club-20261128@copenhagen-event-radar
+DTSTAMP:20261017T065500Z
+DTSTART;TZID=Europe/Copenhagen:20261128T110000
+DTEND;TZID=Europe/Copenhagen:20261128T121500
+SUMMARY:Vesterbro Library — Silent Book Club
+DESCRIPTION:Free English-speaking community reading group. Bring any book\; no registration. Opening chat\, 45 minutes reading and optional recommendations.
+URL:https://bibliotek.kk.dk/vesterbro-bibliotek-og-kulturhus/arrangementer/international/silent-book-club
+LOCATION:Vesterbro Bibliotek og Kulturhus\, Lyrskovgade 4\, Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:designmuseum-cozy-girls-20261025@copenhagen-event-radar
+DTSTAMP:20261017T065500Z
+DTSTART;TZID=Europe/Copenhagen:20261025T103000
+DTEND;TZID=Europe/Copenhagen:20261025T123000
+SUMMARY:Designmuseum — Cozy Girls Creative Club
+DESCRIPTION:Free recurring creative social group in museum café FORMAT. Bring knitting\, a book\, sketchbook or other project. No registration.
+URL:https://designmuseum.dk/event/strikkeklub-the-cozy-girls/
+LOCATION:FORMAT Café\, Designmuseum Danmark\, Bredgade 68\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:designmuseum-cozy-girls-20261129@copenhagen-event-radar
+DTSTAMP:20261017T065500Z
+DTSTART;TZID=Europe/Copenhagen:20261129T103000
+DTEND;TZID=Europe/Copenhagen:20261129T123000
+SUMMARY:Designmuseum — Cozy Girls Creative Club
+DESCRIPTION:Free recurring creative social group in museum café FORMAT. Bring knitting\, a book\, sketchbook or other project. No registration.
+URL:https://designmuseum.dk/event/strikkeklub-the-cozy-girls/
+LOCATION:FORMAT Café\, Designmuseum Danmark\, Bredgade 68\, Copenhagen K
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pumpehuset-memphis-may-fire-dead-by-april-20270503@copenhagen-event-radar
+DTSTAMP:20261017T065500Z
+DTSTART;TZID=Europe/Copenhagen:20270503T180000
+DTEND;TZID=Europe/Copenhagen:20270503T220000
+SUMMARY:Memphis May Fire x Dead by April + Seven Blood
+DESCRIPTION:Metalcore co-headline show. Doors 18:00\, music 19:00\; 320 DKK. End time is an approximate calendar placeholder.
+URL:https://pumpehuset.dk/en/koncerter/memphis-may-fire-x-dead-by-april/
+LOCATION:Pumpehuset\, Studiestræde 52\, Copenhagen V
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:vega-syl-opening-20270108@copenhagen-event-radar
+DTSTAMP:20261017T065500Z
+DTSTART;TZID=Europe/Copenhagen:20270108T190000
+DTEND;TZID=Europe/Copenhagen:20270108T220000
+SUMMARY:SYL — VEGA Opening Concert 2027
+DESCRIPTION:Copenhagen hardcore/punk/noise rock band. Doors 19:00\, music 20:00\, 250 DKK. End time is an approximate calendar placeholder.
+URL:https://vega.dk/event/syl-2027-01-08
+LOCATION:Store VEGA\, Copenhagen V
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
