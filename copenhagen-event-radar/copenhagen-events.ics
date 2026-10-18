@@ -1233,4 +1233,100 @@ URL:https://vega.dk/event/syl-2027-01-08
 LOCATION:Store VEGA\, Copenhagen V
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:louisiana-members-varo-20261020@copenhagen-event-radar
+DTSTAMP:20261018T070000Z
+DTSTART;TZID=Europe/Copenhagen:20261020T173000
+DTEND;TZID=Europe/Copenhagen:20261020T190000
+SUMMARY:Louisiana Members Special — Remedios Varo
+DESCRIPTION:Member workshop with art talks and creative experiments. 75 DKK\; membership required.
+URL:https://louisiana.dk/event/members-special-remedios-varo-i-teori-og-praksis-20-oktober-2026/
+LOCATION:Louisiana\, Humlebæk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:louisiana-dia-kids-20261027@copenhagen-event-radar
+DTSTAMP:20261018T070000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261102
+SUMMARY:Louisiana — Día de los Muertos Family Art Workshops
+DESCRIPTION:27 Oct–1 Nov\, daily 11:00–18:00. Creative family workshops\; free with museum admission.
+URL:https://louisiana.dk/event/aabne-vaerksteder-de-doedes-dag-27-okotber-1-november-2026/
+LOCATION:Louisiana\, Humlebæk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:louisiana-dia-lecture-20261101@copenhagen-event-radar
+DTSTAMP:20261018T070000Z
+DTSTART;TZID=Europe/Copenhagen:20261101T150000
+DTEND;TZID=Europe/Copenhagen:20261101T160000
+SUMMARY:Louisiana Lecture — Día de los Muertos in Mexico
+DESCRIPTION:Mexican cultural history\, mythology and the Day of the Dead.
+URL:https://louisiana.dk/det-sker/louisiana-lecture/
+LOCATION:Louisiana\, Humlebæk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cafx-le-cheile-opening-20261105@copenhagen-event-radar
+DTSTAMP:20261018T070000Z
+DTSTART;TZID=Europe/Copenhagen:20261105T163000
+DTEND;TZID=Europe/Copenhagen:20261105T190000
+SUMMARY:CAFx — Le Chéile Exhibition Opening
+DESCRIPTION:English-language opening on Irish architecture and community.
+URL:https://www.cafx.dk/event/2026-10-13-130817
+LOCATION:CAFx\, Halmtorvet 27\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:louisiana-marseille-lecture-20261125@copenhagen-event-radar
+DTSTAMP:20261018T070000Z
+DTSTART;TZID=Europe/Copenhagen:20261125T193000
+DTEND;TZID=Europe/Copenhagen:20261125T203000
+SUMMARY:Louisiana Lecture — Marseille 1940
+DESCRIPTION:Uwe Wittstock on surrealists fleeing Nazi occupation in 1940.
+URL:https://louisiana.dk/det-sker/louisiana-lecture/
+LOCATION:Louisiana\, Humlebæk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:in-flames-trivium-vola-paleface-20270427@copenhagen-event-radar
+DTSTAMP:20261018T070000Z
+DTSTART;TZID=Europe/Copenhagen:20270427T180000
+SUMMARY:In Flames + Trivium + VOLA + Paleface Swiss
+DESCRIPTION:Doors 17:00\, show 18:00. Standing from 655 DKK including fee.
+URL:https://www.livenation.dk/event/in-flames-european-tour-2027-frederiksberg-tickets-edp1691686
+LOCATION:K.B. Hallen\, Frederiksberg
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:boundaries-vega-20270428@copenhagen-event-radar
+DTSTAMP:20261018T070000Z
+DTSTART;TZID=Europe/Copenhagen:20270428T183000
+SUMMARY:Boundaries — Lille VEGA
+DESCRIPTION:Metalcore concert. Doors 18:00\, show 18:30. 290 DKK.
+URL:https://vega.dk/en/event/boundaries-2027-04-28
+LOCATION:Lille VEGA\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:alina-cojocaru-20270604@copenhagen-event-radar
+DTSTAMP:20261018T070000Z
+DTSTART;TZID=Europe/Copenhagen:20270604T193000
+SUMMARY:Alina Cojocaru — Ballet Evening
+DESCRIPTION:International ballet at Østre Gasværk\; additional dates 5–6 June.
+URL:https://kbhdanser.dk/alina-cojocaru/
+LOCATION:Østre Gasværk Teater\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cafx-biennial-2027@copenhagen-event-radar
+DTSTAMP:20261018T070000Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20271016
+SUMMARY:Copenhagen Architecture Biennial 2027 — Elements
+DESCRIPTION:Confirmed 9 Sep–15 Oct 2027. Exhibitions\, workshops and guided tours\; programme pending.
+URL:https://www.cafx.dk/biennial/biennial-home
+LOCATION:Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
