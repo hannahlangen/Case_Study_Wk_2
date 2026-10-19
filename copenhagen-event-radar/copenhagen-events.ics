@@ -1329,4 +1329,176 @@ URL:https://www.cafx.dk/biennial/biennial-home
 LOCATION:Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:vampire-love-library-20261027@copenhagen-event-radar
+DTSTAMP:20261019T070000Z
+DTSTART;TZID=Europe/Copenhagen:20261027T173000
+DTEND;TZID=Europe/Copenhagen:20261027T210000
+SUMMARY:Ørestad Library — Vampire Love Book Club & Film
+DESCRIPTION:English-language Interview with the Vampire discussion and film. Free registration required.
+URL:https://bibliotek.kk.dk/orestad-bibliotek/arrangementer/film/book-club-film-night-vampire-love-0
+LOCATION:Ørestad Bibliotek\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:french-b1-oral-express-20261102@copenhagen-event-radar
+DTSTAMP:20261019T070000Z
+DTSTART;TZID=Europe/Copenhagen:20261102T174500
+DTEND;TZID=Europe/Copenhagen:20261102T184500
+SUMMARY:Institut français — B1 Oral Express (7 sessions start)
+DESCRIPTION:Mondays 2 Nov–14 Dec 2026\, 17:45–18:45\; maximum 8 participants\, 1420 DKK. Check availability before payment.
+URL:https://institutfrancais.dk/fr/courses-list
+LOCATION:Institut français du Danemark\, Frederiksberg
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kynd-yoga-saunagus-20261103@copenhagen-event-radar
+DTSTAMP:20261019T070000Z
+DTSTART;TZID=Europe/Copenhagen:20261103T170000
+DTEND;TZID=Europe/Copenhagen:20261103T193000
+SUMMARY:KYND — Yoga & Saunagus at BaneGaarden
+DESCRIPTION:Guided yoga 17:00–18:00\, sauna 18:15–19:30\, refreshments and time to connect. 200 DKK.
+URL:https://kynd.dk/events/yoga-saunagus-intentional-movement-heat-reset
+LOCATION:KYND Sydhavn\, Otto Busses Vej 45\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:womens-wine-club-20261117@copenhagen-event-radar
+DTSTAMP:20261019T070000Z
+DTSTART;TZID=Europe/Copenhagen:20261117T173000
+DTEND;TZID=Europe/Copenhagen:20261117T200000
+SUMMARY:Women's Wine Club — Body & Connection
+DESCRIPTION:Women-only wine tasting and facilitated discussion by Women's Hiking Club\; 399 DKK.
+URL:https://billetto.dk/e/17-11-womens-wine-club-x-vinsmagning-x-talk-billetter-1901838
+LOCATION:Vinkollektivet\, Stefansgade 40\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dorte-hansen-book-club-20261119@copenhagen-event-radar
+DTSTAMP:20261019T070000Z
+DTSTART;TZID=Europe/Copenhagen:20261119T180000
+DTEND;TZID=Europe/Copenhagen:20261119T190000
+SUMMARY:Islands Brygge Library — Dörte Hansen Book Club
+DESCRIPTION:Free facilitated book discussion of Til havs\; advance registration recommended.
+URL:https://bibliotek.kk.dk/l%C3%A6seklubber
+LOCATION:Islands Brygge Bibliotek\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:charlottenborg-salon-20261119@copenhagen-event-radar
+DTSTAMP:20261019T070000Z
+DTSTART;TZID=Europe/Copenhagen:20261119T170000
+DTEND;TZID=Europe/Copenhagen:20261119T183000
+SUMMARY:Charlottenborg Salon — The Living
+DESCRIPTION:Amalie Smith and guests discuss art\, materiality and living processes\; ticket includes exhibitions.
+URL:https://kunsthalcharlottenborg.dk/en/events/charlottenborg-salon-19-november-2026/
+LOCATION:Kunsthal Charlottenborg\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:smk-fridays-20261120@copenhagen-event-radar
+DTSTAMP:20261019T070000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:SMK Fridays — November 2026
+DESCRIPTION:Officially confirmed free SMK Fridays date\; detailed programme and hours to be announced.
+URL:https://www.smk.dk/en/article/programme-for-smk-in-2026/
+LOCATION:SMK\, Sølvgade 48-50\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:louisiana-members-varo-20261127@copenhagen-event-radar
+DTSTAMP:20261019T070000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Louisiana Members Night — Remedios Varo & Surrealist Women
+DESCRIPTION:Guided exhibition visit\, talk and communal dinner. Louisiana Klubben membership required\; verify ticket availability.
+URL:https://louisiana.dk/event/members-night-remedios-varo-og-surrealismens-kvinder-30-oktober-2026/
+LOCATION:Louisiana Museum of Modern Art\, Humlebæk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:institut-francais-delphine-de-vigan-20261203@copenhagen-event-radar
+DTSTAMP:20261019T070000Z
+DTSTART;TZID=Europe/Copenhagen:20261203T193000
+DTEND;TZID=Europe/Copenhagen:20261203T203000
+SUMMARY:Institut français — Parlons de Delphine de Vigan
+DESCRIPTION:French literary evening accessible from A2\, 125 DKK including a drink.
+URL:https://institutfrancais.dk/fr/evenements/conferences-en-francais-2026-0
+LOCATION:Institut français du Danemark\, Frederiksberg
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:womens-wine-club-20261208@copenhagen-event-radar
+DTSTAMP:20261019T070000Z
+DTSTART;TZID=Europe/Copenhagen:20261208T173000
+DTEND;TZID=Europe/Copenhagen:20261208T200000
+SUMMARY:Women's Wine Club — December Conversation
+DESCRIPTION:Women-only wine tasting and facilitated conversation\, 399 DKK.
+URL:https://billetto.dk/e/8-12-womens-wine-club-x-vinsmagning-x-talk-billetter-1901839
+LOCATION:Vinkollektivet\, Stefansgade 40\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:korean-beginner-12-online-20270112@copenhagen-event-radar
+DTSTAMP:20261019T070000Z
+DTSTART;TZID=Europe/Copenhagen:20270112T190000
+SUMMARY:Korean Beginner 1-2 ONLINE — Spring Intake
+DESCRIPTION:Online follow-on option via Zoom\; first class 12 January 2027 at 19:00. Course 2701000102.
+URL:https://www.koreanskkultur.dk/
+LOCATION:Online / Zoom
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tivoli-bond-live-20270117@copenhagen-event-radar
+DTSTAMP:20261019T070000Z
+DTSTART;TZID=Europe/Copenhagen:20270117T200000
+SUMMARY:Bond Live With Orchestra — Music of 007
+DESCRIPTION:James Bond film music concert\; see Tivoli for tickets.
+URL:https://www.tivoli.dk/program/musik
+LOCATION:Tivoli Concert Hall\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:charlottenborg-salon-20270121@copenhagen-event-radar
+DTSTAMP:20261019T070000Z
+DTSTART;TZID=Europe/Copenhagen:20270121T170000
+DTEND;TZID=Europe/Copenhagen:20270121T183000
+SUMMARY:Charlottenborg Salon — Can You Taste a Home?
+DESCRIPTION:Art\, film and discussion on food\, migration\, identity and belonging.
+URL:https://kunsthalcharlottenborg.dk/da/det-sker/
+LOCATION:Kunsthal Charlottenborg\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tivoli-hans-zimmer-20270202@copenhagen-event-radar
+DTSTAMP:20261019T070000Z
+DTSTART;TZID=Europe/Copenhagen:20270202T190000
+DTEND;TZID=Europe/Copenhagen:20270202T213000
+SUMMARY:The Music of Hans Zimmer — Tivoli
+DESCRIPTION:Lords of the Sound orchestra performs Hans Zimmer film scores\; 440–800 DKK. Approx. 2h30 including interval.
+URL:https://www.tivoli.dk/program/musik/the-music-of-hans-zimmer
+LOCATION:Tivolis Koncertsal\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pumpehuset-slomosa-20270214@copenhagen-event-radar
+DTSTAMP:20261019T070000Z
+DTSTART;TZID=Europe/Copenhagen:20270214T200000
+SUMMARY:Slomosa — Pumpehuset
+DESCRIPTION:Norwegian heavy/desert rock\; doors 19:00\, concert 20:00\, 265 DKK.
+URL:https://pumpehuset.dk/koncerter/slomosa/
+LOCATION:Pumpehuset\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pumpehuset-protomartyr-20270224@copenhagen-event-radar
+DTSTAMP:20261019T070000Z
+DTSTART;TZID=Europe/Copenhagen:20270224T210000
+SUMMARY:Protomartyr — Pumpehuset
+DESCRIPTION:Dark post-punk\; doors 20:00\, concert 21:00\, 310 DKK.
+URL:https://pumpehuset.dk/koncerter/protomartyr/
+LOCATION:Pumpehuset\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
