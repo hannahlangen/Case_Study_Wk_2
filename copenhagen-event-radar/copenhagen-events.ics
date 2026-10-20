@@ -1512,4 +1512,37 @@ URL:https://designmuseum.dk/event/talk-ikebana-blomster-og-japansk-tekultur/
 LOCATION:Designmuseum Danmark\, Bredgade 68\, Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:studieskolen-glyptotek-francais-20261028@copenhagen-event-radar
+DTSTAMP:20261020T070000Z
+DTSTART;TZID=Europe/Copenhagen:20261028T150000
+DTEND;TZID=Europe/Copenhagen:20261028T161500
+SUMMARY:Studieskolen — Glyptotek guided visit in French
+DESCRIPTION:Guided visit to French collection. 175 DKK. Registration via Studieskolen.
+URL:https://www.studieskolen.dk/da/sprog/fransk
+LOCATION:Glyptoteket\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cc-light-water-dorte-20261029@copenhagen-event-radar
+DTSTAMP:20261020T070000Z
+DTSTART;TZID=Europe/Copenhagen:20261029T170000
+DTEND;TZID=Europe/Copenhagen:20261029T200000
+SUMMARY:CC — Light & Water book launch with Dorte Mandrup
+DESCRIPTION:Architecture book launch with discussion in Danish. Foyer event free; exhibitions require paid entry.
+URL:https://copenhagencontemporary.org/en/event/boglancering-light-water
+LOCATION:Copenhagen Contemporary\, Refshalevej 173A\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:studieskolen-fr-dk-exchange-20261030@copenhagen-event-radar
+DTSTAMP:20261020T070000Z
+DTSTART;TZID=Europe/Copenhagen:20261030T163000
+DTEND;TZID=Europe/Copenhagen:20261030T180000
+SUMMARY:Studieskolen — French/Danish Language Partner Café
+DESCRIPTION:Free language exchange with native speakers; registration required.
+URL:https://www.studieskolen.dk/da/sprog/fransk
+LOCATION:Studieskolen\, Borgergade 12\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
