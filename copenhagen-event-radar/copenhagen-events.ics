@@ -1545,4 +1545,15 @@ URL:https://www.studieskolen.dk/da/sprog/fransk
 LOCATION:Studieskolen\, Borgergade 12\, Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:studieskolen-paul-bocuse-20261113@copenhagen-event-radar
+DTSTAMP:20261020T070000Z
+DTSTART;TZID=Europe/Copenhagen:20261113T140000
+DTEND;TZID=Europe/Copenhagen:20261113T160000
+SUMMARY:Studieskolen — Paul Bocuse in French
+DESCRIPTION:French-language talk on culinary culture. Price 195 DKK.
+URL:https://www.studieskolen.dk/da/sprog/fransk
+LOCATION:Studieskolen\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
