@@ -1501,4 +1501,15 @@ URL:https://pumpehuset.dk/koncerter/protomartyr/
 LOCATION:Pumpehuset\, Copenhagen
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:designmuseum-ikebana-tea-20261105@copenhagen-event-radar
+DTSTAMP:20261020T070000Z
+DTSTART;TZID=Europe/Copenhagen:20261105T170000
+DTEND;TZID=Europe/Copenhagen:20261105T193000
+SUMMARY:Designmuseum — Ikebana & Japanese Tea Culture
+DESCRIPTION:Free talk and live demonstration with Japanese tea tasting. Registration required.
+URL:https://designmuseum.dk/event/talk-ikebana-blomster-og-japansk-tekultur/
+LOCATION:Designmuseum Danmark\, Bredgade 68\, Copenhagen
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
